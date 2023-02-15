@@ -6,7 +6,7 @@
 
 [Awesome-Django](https://github.com/rosarior/awesome-django) 是由 [Roberto Rosario](https://github.com/rosarior) 发起和维护的 Django 资源列表。该列表收集了大量 Django 相关的优秀应用、项目等资源，方便了 Django 用户参考查阅。
 
-[Django 优秀资源大全](https://github.com/haiiiiiyun/awesome-django-cn) 则是依据 [Awesome-Django](https://github.com/rosarior/awesome-django) 翻译而来。也欢迎你帮助推荐和提供建议
+[Django 优秀资源大全](https://github.com/china-testing/python_cn_resouce/blob/main/django.md ) 则是依据 [Awesome-Django](https://github.com/rosarior/awesome-django) 翻译而来。也欢迎你帮助推荐和提供建议
 
 赞善或进入python技术群：钉钉或微信 pythontesting、 支付宝xurongzhong#gmail.com, 请将#替换为@。
 
