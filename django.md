@@ -10,7 +10,11 @@
 
 赞善或进入python技术群：钉钉或微信 pythontesting、 支付宝xurongzhong#gmail.com, 请将#替换为@。
 
+python测试开发钉钉群：21745728，目前800多人，另有几千人的python测试开发微信群，可联系 钉钉或微信号 pythontesting 加群（备注：python）！
+
 [python八字排盘](https://github.com/china-testing/bazi)  目前市面上功能最强大的八字排盘，科学的尽头是道教，玄学。
+
+本指南主要收集GitHub星级1k+的库，精品图书下载部分主要是Django 4.*， 亚马逊星级100+之精品。
 
 
 - [Awesome Django](#awesome-django)
@@ -67,7 +71,7 @@
     - [电子商务](#电子商务)
     - [其它](#其它)
 - [资源](#资源)
-    - [图书](#图书)
+    - [精品图书](#精品图书)
     - [会议](#会议)
     - [外部文档](#外部文档)
     - [视频](#视频)
