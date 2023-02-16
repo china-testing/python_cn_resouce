@@ -17,6 +17,7 @@ python测试开发钉钉群：21745728，目前800多人，另有几千人的pyt
 ## 内容
 
    * [内容](#内容)
+   * [精品图书](#精品图书)
    * [第三方扩展](#第三方扩展)
       * [Admin](#admin)
       * [Auth](#auth)
@@ -32,11 +33,20 @@ python测试开发钉钉群：21745728，目前800多人，另有几千人的pyt
       * [官方资源](#官方资源)
       * [外部资源](#外部资源)
       * [播客](#播客)
+      * [文章](#文章)
+      * [教程](#教程)
+      * [讲座](#讲座)
+      * [视频](#视频)
+      * [课程](#课程)
+      * [最佳实践](#最佳实践)
+   * [托管](#托管)
       * [PaaS](#paas)
       * [IaaS](#iaas)
    * [项目](#项目)
+      * [模板](#模板)
       * [Docker图像](#docker图像)
       * [开源项目](#开源项目)
+
 
 
 ## 精品图书
@@ -131,12 +141,12 @@ python测试开发钉钉群：21745728，目前800多人，另有几千人的pyt
 - [Build The Next Generation Of Python Web Applications With FastAPI](https://www.pythonpodcast.com/fastapi-web-application-framework-episode-259/) - 在[Podcast Init](https://www.pythonpodcast.com/)的这一集中，FastAPI的创建者[Sebastián Ramirez](https://tiangolo.com/)分享了他创建FastAPI的动机以及它是如何在引擎盖下工作的。
 - [PythonBytes上的FastAPI](https://pythonbytes.fm/episodes/show/123/time-to-right-the-py-wrongs?time_in_sec=855) - 项目的良好概述。
 
-###文章
+### 文章
 
 - [FastAPI对我来说永远毁了Flask](https://towardsdatascience.com/fastapi-has-ruined-flask-forever-for-me-73916127da)
 - [Why we switched from Flask to FastAPI for production machine learning](https://medium.com/@calebkaiser/why-we-switched-from-flask to-fastapi-for-production-machine-learning-765aab9b3679) - 深入探讨为什么要从Flask转移到FastAPI。
 
-###教程
+### 教程
 
 - [Async SQLAlchemy with FastAPI](https://stribny.name/blog/fastapi-asyncalchemy/) - 学习如何异步地使用SQLAlchemy。
 - [Build and Secure an API in Python with FastAPI](https://blog.yezz.me/blog/Build-and-Secure-an-API-in-Python-with-FastAPI) - 保护和维护基于FastAPI和SQLAlchemy的API。
@@ -163,12 +173,12 @@ python测试开发钉钉群：21745728，目前800多人，另有几千人的pyt
 - [使用FastAPI流媒体视频](https://stribny.name/blog/fastapi-video/) - 了解如何为视频流提供服务。
 - [Using Hypothesis and Schemathesis to Test FastAPI](https://testdriven.io/blog/fastapi-hypothesis/) - 将基于属性的测试应用于FastAPI。
 
-###讲座
+### 讲座
 
 - [PyConBY 2020: Serve ML models easily with FastAPI](https://www.youtube.com/watch?v=z9K5pwb0rt8) - 从Sebastian Ramirez的演讲中，你将了解到如何用FastAPI为你的ML模型轻松构建一个生产就绪的网络（JSON）API，包括默认的最佳实践。
 - [PyCon UK 2019: FastAPI from the ground up](https://www.youtube.com/watch?v=3DLwPcrE5mA) - 本讲座展示了如何使用FastAPI从头开始为数据库构建一个简单的REST API。
 
-###视频
+### 视频
 
 - 用FastAPI构建股票筛选器](https://www.youtube.com/watch?v=5GorMC2lPpk) - 用FastAPI构建一个基于Web的股票筛选器，你将被介绍到FastAPI的许多功能，包括Pydantic模型、依赖注入、后台任务和SQLAlchemy集成。
 - [Building Web APIs Using FastAPI](https://www.youtube.com/watch?v=Pe66M8mn-wA) - 使用FastAPI来构建网络应用程序接口（RESTful API）。
@@ -176,18 +186,18 @@ python测试开发钉钉群：21745728，目前800多人，另有几千人的pyt
 - [FastAPI vs. Django vs. Flask](https://www.youtube.com/watch?v=9YBAOYQOzWs) - 2020年哪个框架最适合Python？哪个使用async/await最好？哪一个是最快的？
 - [Serving Machine Learning Models As API with FastAPI](https://www.youtube.com/watch?v=mkDxuRvKUL8) - 使用FastAPI构建机器学习API。
 
-###课程
+### 课程
 
 - [Test-Driven Development with FastAPI and Docker](https://testdriven.io/courses/tdd-fastapi/) - 学习如何使用Python、FastAPI和Docker构建、测试和部署一个文本总结的微服务。
 - [Modern APIs with FastAPI and Python](https://training.talkpython.fm/courses/getting-started-with-fastapi) - 本课程旨在让您利用FastAPI快速创建在云中运行的新API。
 - [使用FastAPI的完整网络应用程序课程](https://training.talkpython.fm/courses/full-html-web-applications-with-fastapi) - 您将学习如何使用FastAPI构建完整的网络应用程序，相当于使用Flask或Django所能做到的。
 - [The Definitive Guide to Celery and FastAPI](https://testdriven.io/courses/fastapi-celery/) - 了解如何将Celery添加到FastAPI应用程序中以提供异步任务处理。
 
-###最佳实践
+### 最佳实践
 
 - [FastAPI最佳实践](https://github.com/zhanymkanov/fastapi-best-practices) - 在GitHub repo中收集的最佳实践。
 
-##托管
+## 托管
 
 ### PaaS
 
@@ -225,7 +235,7 @@ python测试开发钉钉群：21745728，目前800多人，另有几千人的pyt
 
 ## 项目
 
-###模板
+### 模板
 
 - 全栈FastAPI和PostgreSQL - 基础项目生成器](https://github.com/tiangolo/full-stack-fastapi-postgresql) - 全栈、现代网络应用程序生成器，包括FastAPI、PostgreSQL、Docker、Celery、Vue前端、自动HTTPS等（由FastAPI的创造者[Sebastián Ramírez](https://github.com/tiangolo) 开发）。
 - [FastAPI和Tortoise ORM](https://github.com/prostomarkeloff/fastapi-tortoise) - 强大而简单的网络API模板，包括FastAPI（作为网络框架）和Tortoise-ORM（用于通过数据库工作而不需要头痛）。
