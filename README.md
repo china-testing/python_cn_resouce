@@ -11,3 +11,5 @@
 * [Flask库资源大全](https://github.com/china-testing/python_cn_resouce/blob/main/flask.md)
 
 * [python测试库资源大全](https://github.com/china-testing/python_cn_resouce/blob/main/testing.md)
+
+* [DevOps资源大全](https://github.com/china-testing/python_cn_resouce/blob/main/testing.md)

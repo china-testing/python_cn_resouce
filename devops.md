@@ -2,39 +2,38 @@
 
 DevOps是文化理念、实践和工具的结合，它提高了组织高速交付应用程序和服务的能力：与使用传统软件开发和基础设施管理流程的组织相比，以更快的速度发展和改进产品。这种速度使组织能够更好地服务于他们的客户并在市场上更有效地竞争。
 
-## ＃＃内容
+## 内容
 
-- [云平台](#cloud-platforms)
-- 开源云平台](#open-source-cloud-platforms)
-- [操作系统](#operating-systems)
-- 分布式文件系统](#distributed-filesystems)
-- [应用平台](#应用平台)
-- 容器镜像注册](#container-image-registry)
-- 自动化和协调](#自动化--协调)(#automation--orchestration)
-- [持续集成与交付](#持续集成--交付)
-- 源代码管理](#源代码管理)
-- [网络服务器](#web-servers)
-- [SSL](#ssl)
-- [数据库](#databases)
-- [可观察性和监控](#可观察性--监控)
-- [服务发现和服务网](#服务发现--服务网)
-- 混沌工程](#chaos-engineering)
-- [API网关](#api-gateway)
-- [代码审查](#code-review)
-- [分布式信息传递](#distributed-messaging)
-- [编程语言](#programming-languages)
-- [聊天和ChatOps](#聊天和Chatops)
-- [秘密管理](#secret-management)
-- [共享](#sharing)
-- [VPN](#vpn)
-- [资源](#resources)
-  - [书籍](#书籍)
-  - [会议](#会议)
-  - [DevOps 路线图](#devops-roadmap)
+   * [内容](#内容)
+   * [云平台](#云平台)
+   * [开源云平台](#开源云平台)
+   * [操作系统](#操作系统)
+   * [分布式文件系统](#分布式文件系统)
+   * [应用平台](#应用平台)
+   * [容器镜像注册表](#容器镜像注册表)
+   * [自动化和协调](#自动化和协调)
+   * [持续集成与交付](#持续集成与交付)
+   * [源代码管理](#源代码管理)
+   * [网络服务器](#网络服务器)
+   * [SSL](#ssl)
+   * [数据库](#数据库)
+   * [可观察性和监控](#可观察性和监控)
+   * [服务发现与服务网](#服务发现与服务网)
+   * [混沌工程](#混沌工程)
+   * [API网关](#api网关)
+   * [代码审查](#代码审查)
+   * [分布式消息传递](#分布式消息传递)
+   * [编程语言](#编程语言)
+   * [聊天和ChatOps](#聊天和chatops)
+   * [安全管理](#安全管理)
+   * [分享](#分享)
+   * [VPN](#vpn)
+   * [资源](#资源)
+      * [书籍](#书籍)
+      * [会议](#会议)
+      * [DevOps 路线图](#devops-路线图)
 
----
-
-##云平台
+## 云平台
 
 *公有云和私有云平台*。
 
@@ -64,7 +63,7 @@ DevOps是文化理念、实践和工具的结合，它提高了组织高速交�
 - [Apache Mesos](http://mesos.apache.org/) - 针对你的数据中心编程，就像它是单一的资源池。
 - [Localstack](https://github.com/localstack/localstack) - 全功能的本地AWS云堆栈。在离线状态下开发和测试你的云和无服务器应用程序。
 
-##操作系统
+## 操作系统
 
 *操作系统--服务器平台。
 
@@ -75,7 +74,7 @@ DevOps是文化理念、实践和工具的结合，它提高了组织高速交�
 - [Atomic](http://www.projectatomic.io/) - 使用不可变的基础设施来部署和扩展你的容器化应用。
 - [Photon](https://github.com/vmware/photon) - 为云原生应用、云平台和VMware基础设施优化的Linux容器主机。
 
-##分布式文件系统
+## 分布式文件系统
 
 *网络分布式文件系统。
 
@@ -85,7 +84,7 @@ DevOps是文化理念、实践和工具的结合，它提高了组织高速交�
 - [XtreemFS](http://www.xtreemfs.org/) - 容错的分布式文件系统，满足所有存储需求。
 - [min.io](https://min.io/) - 高性能、分布式对象存储系统。
 
-##应用平台
+## 应用平台
 
 *应用管理平台、容器平台和容器管理。
 
@@ -282,7 +281,7 @@ DevOps是文化理念、实践和工具的结合，它提高了组织高速交�
   - [Cachet](https://github.com/CachetHQ/Cachet) - 美丽而强大的开源状态页面系统。
   - [StatusPal](https://statuspal.io/?utm_source=github.com&utm_medium=referral&utm_campaign=awesome-devops) - 通过一个漂亮的托管状态页面有效地沟通事件和维护。
 
-##服务发现与服务网
+## 服务发现与服务网
 
 *服务发现、服务网和故障检测工具。
 
@@ -319,7 +318,7 @@ DevOps是文化理念、实践和工具的结合，它提高了组织高速交�
 - [Envoy](https://www.envoyproxy.io/) - 云原生高性能边缘/中间/服务代理。
 - [Traefik](https://traefik.io/) - 面向HTTP和基于TCP的应用的反向代理和负载平衡器。
 
-##代码审查
+## 代码审查
 
 *代码审查。一些源代码管理工具有内置的代码审查功能*。
 
@@ -362,7 +361,7 @@ DevOps是文化理念、实践和工具的结合，它提高了组织高速交�
   - [CloudBot](https://github.com/CloudBotIRC/CloudBot) - 简单、快速、可扩展、开源的Python IRC Bot。
   - [Hubot](https://hubot.github.com/) - 可定制的机器人。
 
-## 秘密管理
+## 安全管理
 
 *安全即代码，敏感的凭证和秘密需要使用自动化来管理、安全、维护和轮换。
 
@@ -372,7 +371,7 @@ DevOps是文化理念、实践和工具的结合，它提高了组织高速交�
 - [Vault Secrets Operator](https://github.com/ricoberger/vault-secrets-operator) - 从Vault创建Kubernetes秘密，以实现基于GitOps的安全工作流程。
 - [Git Secret](https://github.com/sobolevn/git-secret) - 在git仓库内存储你的私人数据的bash工具。
 
-##分享
+## 分享
 
 *一个帮助分享知识和讲述故事的工具集*。
 
@@ -411,7 +410,7 @@ DevOps是文化理念、实践和工具的结合，它提高了组织高速交�
 - [Infrastructure as Code: Managing Servers in the Cloud](http://shop.oreilly.com/product/0636920039297.do)
 - [The DevOps Handbook](https://www.oreilly.com/library/view/the-devops-handbook/9781457191381/)
 
-###会议
+### 会议
 
 - [DevOpsCon](https://devopscon.io/)
 - [AWS re:Invent](https://reinvent.awsevents.com/)
