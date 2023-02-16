@@ -4,7 +4,7 @@
 
 [Awesome-fastapi](https://github.com/mjhea0/awesome-fastapi) 收集了大量 fastapi 相关的优秀应用、项目等资源，方便了 fastapi 用户参考查阅。
 
-[Django 优秀资源大全](https://github.com/china-testing/python_cn_resouce/blob/main/fastapi.md ) 则是翻译而来。也欢迎你帮助推荐和提供建议
+[FastAPI 优秀资源大全](https://github.com/china-testing/python_cn_resouce/blob/main/fastapi.md ) 则是翻译而来。也欢迎你帮助推荐和提供建议
 
 赞善或进入python技术群：钉钉或微信 pythontesting、 支付宝xurongzhong#gmail.com, 请将#替换为@。
 

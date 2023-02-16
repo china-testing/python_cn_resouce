@@ -478,6 +478,19 @@ python测试开发钉钉群：21745728，目前800多人，另有几千人的pyt
 * [Django for Beginners Build websites with Python & Django 9781735467207.epub](https://url97.ctfile.com/f/18113597-809547545-b33b76?p=2274)
 * [Django for APIs Build web APIs with Python & Django 9781093633948.epub](https://url97.ctfile.com/f/18113597-809547517-697dfb?p=2274)
 
+* [	Django单机应用 Django Standalone Apps - Ben Lopatin.pdf ](https://545c.com/file/18113597-451087719)
+
+* [Python测试驱动开发：使用Django、Selenium和JavaScript进行Web编程（第2版）- 2018.pdf](https://itbooks.pipipan.com/fs/18113597-315514896)
+* [Beginning Django-2017.pdf](http://file.allitebooks.com/20171030/Beginning%20Django.pdf)
+* [Beginning Django CMS-2015.pdf](http://file.allitebooks.com/20160130/Beginning%20Django%20CMS.pdf)
+* [Learning Django Web Development-2015.pdf](http://file.allitebooks.com/20150731/Learning%20Django%20Web%20Development.pdf)
+* [Django Project Blueprints-2016.pdf](http://file.allitebooks.com/20170307/Django%20Project%20Blueprints.pdf)
+* [Test Driven Development with Django-2015.pdf](http://file.allitebooks.com/20150913/Test%20Driven%20Development%20with%20Django.pdf)
+* [Web Development with Django Cookbook, Second Edition-2016.pdf](http://file.allitebooks.com/20160517/Web%20Development%20with%20Django%20Cookbook,%20Second%20Edition.pdf)
+* [Django By Example-2015.rar](http://file.allitebooks.com/20160104/Django%20By%20Example.rar)
+* [Two Scoops of Django Best Practices For Django 1-2013.5-2013.pdf](http://file.allitebooks.com/20150514/Two%20Scoops%20of%20Django%20Best%20Practices%20For%20Django%201.5.pdf)
+
+
 ## 网站
 
 * [Django Girls Tutorial](https://tutorial.djangogirls.org/zh/) - 有趣并且吸引人的教程，显示了如何使用 Django 创建一个 blog 并部署到 Heroku。
