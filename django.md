@@ -472,7 +472,7 @@ python测试开发钉钉群：21745728，目前800多人，另有几千人的pyt
 
 ## 精品图书
 
-访问密码: 2274, 无需注册，点击普通下载即可。如遇失效可加钉钉或微信 pythontesting获取。
+访问密码: 2274, 无需注册，点击普通下载即可。如遇失效可加钉或V信 pythontesting获取。
 
 * [Django for Professionals Production websites with Python & Django 9781735467238.epub](https://url97.ctfile.com/f/18113597-809547567-83d5c1?p=2274) 
 * [Django for Beginners Build websites with Python & Django 9781735467207.epub](https://url97.ctfile.com/f/18113597-809547545-b33b76?p=2274)

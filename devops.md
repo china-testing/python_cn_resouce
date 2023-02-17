@@ -35,7 +35,7 @@ DevOps是文化理念、实践和工具的结合，它提高了组织高速交�
 
 ## 云平台
 
-*公有云和私有云平台*。
+* 公有云和私有云平台 *。
 
 - [亚马逊网络服务（AWS）](https://aws.amazon.com/) - 云计算服务。
 - [Google Cloud Platform (GCP)](https://cloud.google.com/) - 云计算服务。
@@ -53,7 +53,7 @@ DevOps是文化理念、实践和工具的结合，它提高了组织高速交�
 
 ## 开源云平台
 
-*私人、公共和混合开源云平台。
+* 私人、公共和混合开源云平台。* 
 
 - [Openstack](https://www.openstack.org/) - 用于创建私有云和公共云的开源软件。
 - [Apache CloudStack](https://cloudstack.apache.org/) - 设计用于部署和管理大型虚拟机网络。
@@ -65,7 +65,7 @@ DevOps是文化理念、实践和工具的结合，它提高了组织高速交�
 
 ## 操作系统
 
-*操作系统--服务器平台。
+* 操作系统--服务器平台。 * 
 
 - [Ubuntu](https://ubuntu.com/) - 企业开源和Linux。
 - [Rocky Linux](https://rockylinux.org/) - 开源企业操作系统，旨在与Red Hat Enterprise Linux实现100%的错误兼容。
@@ -76,7 +76,7 @@ DevOps是文化理念、实践和工具的结合，它提高了组织高速交�
 
 ## 分布式文件系统
 
-*网络分布式文件系统。
+* 网络分布式文件系统。 * 
 
 - [Ceph](https://ceph.io/en/) - 在完整的系统下，高度可扩展的基于对象、块和文件的存储。
 - [Gluster](https://www.gluster.org/) - 免费和开放源码软件的可扩展网络文件系统。
@@ -86,7 +86,7 @@ DevOps是文化理念、实践和工具的结合，它提高了组织高速交�
 
 ## 应用平台
 
-*应用管理平台、容器平台和容器管理。
+* 应用管理平台、容器平台和容器管理。 * 
 
 - [Openshift](https://www.openshift.com/) - 大创意的Kubernetes平台。
 - [Dokku](https://dokku.com/) - 帮助你建立和管理应用程序的生命周期。
@@ -107,7 +107,7 @@ DevOps是文化理念、实践和工具的结合，它提高了组织高速交�
 
 ## 容器镜像注册表
 
-*Container Image registry.*
+* Container Image registry. *
 
 - [Quay](https://www.projectquay.io/) - 容器镜像注册表，使你能够建立、组织、分发和部署容器。
 - [Dockyard](https://github.com/Huawei/dockyard) - 容器和构件库。
@@ -115,7 +115,7 @@ DevOps是文化理念、实践和工具的结合，它提高了组织高速交�
 
 ## 自动化和协调
 
-*用于自动化、协调、部署、供应和配置管理的工具*。
+* 用于自动化、协调、部署、供应和配置管理的工具。 * 
 
 - [Ansible](https://www.ansible.com/) - 简单的IT自动化平台，使你的应用程序和系统更容易部署。
 - [Salt](https://www.saltstack.com/) - 自动管理和配置任何规模的基础设施或应用程序。
@@ -148,7 +148,7 @@ DevOps是文化理念、实践和工具的结合，它提高了组织高速交�
 
 ## 持续集成与交付
 
-*持续集成、持续交付和持续交付。GitOps.*
+* 持续集成、持续交付和持续交付。GitOps. *
 
 - 在场所
   - [Buildbot](http://buildbot.net/) - 自动化软件开发周期的所有方面。
@@ -184,7 +184,7 @@ DevOps是文化理念、实践和工具的结合，它提高了组织高速交�
 
 ## 源代码管理
 
-*源代码管理，Git-repository管理器，版本控制。其中一些包含在代码审查部分*。
+* 源代码管理，Git-repository管理器，版本控制。其中一些包含在代码审查部分 *。
 
 - [GitHub](https://github.com/) - 帮助开发人员存储和管理他们的代码，以及跟踪和控制对他们的代码的修改。
 - [Gitlab](https://gitlab.com/) - 整个DevOps生命周期在一个应用程序中。
@@ -196,7 +196,7 @@ DevOps是文化理念、实践和工具的结合，它提高了组织高速交�
 
 ## 网络服务器
 
-*网络服务器和反向代理*。
+* 网络服务器和反向代理 * 
 
 - [Nginx](http://nginx.org/) - 高性能的负载平衡器、网络服务器和反向代理。
 - [Apache](http://httpd.apache.org/) - 网络服务器和反向代理。
@@ -207,7 +207,7 @@ DevOps是文化理念、实践和工具的结合，它提高了组织高速交�
 
 ## SSL
 
-*用于自动管理SSL证书的工具。
+* 用于自动管理SSL证书的工具。 * 
 
 - [Certbot](https://github.com/certbot/certbot) - 在人工管理的网站上自动使用Let's Encrypt证书以启用HTTPS。
 - [Let's Encrypt](https://letsencrypt.org/) - 免费、自动、开放的证书颁发机构。
@@ -215,7 +215,7 @@ DevOps是文化理念、实践和工具的结合，它提高了组织高速交�
 
 ## 数据库
 
-*关系型（SQL）和非关系型（NoSQL）数据库*。
+* 关系型（SQL）和非关系型（NoSQL）数据库 * 
 
 - 关系型(SQL)
   - [PostgreSQL](https://www.postgresql.org/) - 强大的、开放源码的对象关系型数据库系统。
@@ -238,7 +238,7 @@ DevOps是文化理念、实践和工具的结合，它提高了组织高速交�
 
 ## 可观察性和监控
 
-*可观察性、监控、指标/度量衡收集和警报工具。
+* 可观察性、监控、指标/度量衡收集和警报工具。* 
 
 - [Sensu](https://sensu.io/) - 简单。可扩展的。多云监控。
 - [Alerta](https://github.com/alerta/alerta) - 可扩展、最低配置和可视化的监控系统。
@@ -283,7 +283,7 @@ DevOps是文化理念、实践和工具的结合，它提高了组织高速交�
 
 ## 服务发现与服务网
 
-*服务发现、服务网和故障检测工具。
+* 服务发现、服务网和故障检测工具。 * 
 
 - [Consul](https://www.hashicorp.com/products/consul/) - 连接和保护任何服务。
 - [Serf](https://www.serf.io/) - 分散的集群成员、故障检测和协调。
@@ -296,7 +296,7 @@ DevOps是文化理念、实践和工具的结合，它提高了组织高速交�
 
 ## 混沌工程
 
-*在分布式系统上进行实验的学科，以便对系统在生产中承受动荡条件的能力建立信心。
+* 在分布式系统上进行实验的学科，以便对系统在生产中承受动荡条件的能力建立信心。* 
 
 - [Chaos Toolkit](https://github.com/chaostoolkit) - 混沌工程的开源平台。
 - [Chaos Monkey](https://github.com/Netflix/chaosmonkey) - 帮助应用程序容忍随机实例故障的弹性工具。
@@ -307,7 +307,7 @@ DevOps是文化理念、实践和工具的结合，它提高了组织高速交�
 
 ## API网关
 
-*API网关、服务代理和服务管理工具。
+* API网关、服务代理和服务管理工具。* 
 
 - [API Umbrella](https://github.com/NREL/api-umbrella) - 坐落在你的API前面的代理，API管理平台。
 - [Ambassador](https://www.getambassador.io/) - 建立在Envoy代理上的Kubernetes-Native API网关。
@@ -320,14 +320,14 @@ DevOps是文化理念、实践和工具的结合，它提高了组织高速交�
 
 ## 代码审查
 
-*代码审查。一些源代码管理工具有内置的代码审查功能*。
+* 代码审查。一些源代码管理工具有内置的代码审查功能*。 * 
 
 - [Gerrit](https://www.gerritcodereview.com/) - 基于网络的团队代码协作工具。
 - [Review Board](https://www.reviewboard.org/) - 基于网络的协作式代码审查工具。
 
 ## 分布式消息传递
 
-*分布式消息传递平台和队列软件。
+* 分布式消息传递平台和队列软件。 * 
 
 - [Rabbitmq](https://www.rabbitmq.com/) - 消息代理。
 - [Kafka](http://kafka.apache.org/) - 建立实时数据管道和流媒体应用程序。
@@ -343,7 +343,7 @@ DevOps是文化理念、实践和工具的结合，它提高了组织高速交�
 
 ## 编程语言
 
-*编程语言。
+* 编程语言。 * 
 
 - [Python](https://www.python.org/) - 编程语言，让你快速工作，更有效地整合系统。运维首选语言。
 - [Go](https://golang.org/) - 开放源码的编程语言，可以轻松构建简单、可靠、高效的软件。
@@ -351,7 +351,7 @@ DevOps是文化理念、实践和工具的结合，它提高了组织高速交�
 
 ## 聊天和ChatOps
 
-*Chat and ChatOps.*
+* Chat and ChatOps. *
 
 - [Rocket](https://rocket.chat/) - 开源的团队交流。
 - [Mattermost](https://mattermost.com/) - 实现安全团队协作的消息平台。
@@ -363,7 +363,7 @@ DevOps是文化理念、实践和工具的结合，它提高了组织高速交�
 
 ## 安全管理
 
-*安全即代码，敏感的凭证和秘密需要使用自动化来管理、安全、维护和轮换。
+* 安全即代码，敏感的凭证和秘密需要使用自动化来管理、安全、维护和轮换。 * 
 
 - [Sops](https://github.com/mozilla/sops) - 用于管理秘密的简单而灵活的工具。
 - [Vault](https://www.hashicorp.com/products/vault/) - 管理秘密和保护敏感数据。
@@ -373,7 +373,7 @@ DevOps是文化理念、实践和工具的结合，它提高了组织高速交�
 
 ## 分享
 
-*一个帮助分享知识和讲述故事的工具集*。
+* 帮助分享知识和讲述故事的工具集 * 
 
 - [Gitbook](https://github.com/GitbookIO/gitbook) - 使用Git和Markdown的现代文档格式和工具链。
 - [Docusaurus](https://github.com/facebook/docusaurus) - 易于维护的开源文档网站。
@@ -382,7 +382,7 @@ DevOps是文化理念、实践和工具的结合，它提高了组织高速交�
 
 ## VPN
 
-*VPN，路由和防火墙。
+* VPN，路由和防火墙。 * 
 
 - [OpenVPN](https://openvpn.net/) - 灵活的VPN解决方案，以确保你的数据通信，无论是互联网隐私。
 - [Pritunl](https://pritunl.com/) - 企业分布式OpenVPN和IPsec服务器。
@@ -399,17 +399,23 @@ DevOps是文化理念、实践和工具的结合，它提高了组织高速交�
 
 ### 书籍
 
-*专注于DevOps、DevSecOps和网站可靠性工程的书籍*。
+* 专注于DevOps、DevSecOps和网站可靠性工程的书籍 * 
 
-- [Effective DevOps: Building a Culture of Collaboration, Affinity, and Tooling at Scale](http://shop.oreilly.com/product/0636920039846.do)
-- [Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation](https://www.oreilly.com/library/view/continuous-delivery-reliable/9780321670250/)
+访问密码: 2274, 无需注册，点击普通下载即可。如遇失效可加钉或V信 pythontesting获取。
+
+- [Effective DevOps Building a Culture of Collaboration Affinity and Tooling at Scale - 2016.pdf](https://url97.ctfile.com/f/18113597-809947048-9904c4?p=2274)
+- [持续交付-发布可靠软件的系统方法.pdf](https://url97.ctfile.com/f/18113597-809947146-e584cc?p=2274)
 - [Hands-On Security in DevOps](https://www.packtpub.com/networking-and-servers/hands-security-devops)
 - [Site Reliability Engineering](https://sre.google/sre-book/table-of-contents/)
-- [The Site Reliability Workbook](https://sre.google/workbook/table-of-contents/)
+- [The Site Reliability Workbook](https://url97.ctfile.com/f/18113597-809948647-bb19e5?p=2274) 另有中文版，后续找到补上。
 - [Building Secure & Reliable Systems](https://static.googleusercontent.com/media/sre.google/ro//static/pdf/building_secure_and_reliable_systems.pdf)
-- [Infrastructure as Code: Managing Servers in the Cloud](http://shop.oreilly.com/product/0636920039297.do)
-- [The DevOps Handbook](https://www.oreilly.com/library/view/the-devops-handbook/9781457191381/)
-
+- [Infrastructure as Code: Managing Servers in the Cloud](https://url97.ctfile.com/f/18113597-809948213-ecbd65?p=2274)
+- [The DevOps Handbook](https://url97.ctfile.com/f/18113597-809948692-6ced93?p=2274) 	-- 强烈推荐。  下面是它的中文版本，不过评价说翻译得一般。
+- [DevOps实践指南.epub](https://url97.ctfile.com/f/18113597-809948822-9a4fae?p=2274)
+- [Ansible for DevOps 2nd Edition 9780986393433.epub](https://url97.ctfile.com/f/18113597-809948878-6181b3?p=2274) -- 强烈推荐。
+- [Python for DevOps Learn Ruthlessly Effective Automation .epub](https://url97.ctfile.com/f/18113597-809949207-98c778?p=2274)   -- 强烈推荐
+- [DevOps For Dummies 9781119552222.epub](https://url97.ctfile.com/f/18113597-809949261-bd8de6?p=2274)  -- 强烈推荐
+ 
 ### 会议
 
 - [DevOpsCon](https://devopscon.io/)
