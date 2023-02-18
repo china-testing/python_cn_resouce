@@ -403,6 +403,7 @@ DevOps是文化理念、实践和工具的结合，它提高了组织高速交�
 
 访问密码: 2274, 无需注册，点击普通下载即可。如遇失效可加钉或V信 pythontesting获取。
 
+- [凤凰项目_一个IT运维的传奇故事 The Phoenix Project-2014 A4.7-6590.epub](https://url97.ctfile.com/f/18113597-810240543-87f2fc?p=2274)  -- 强烈推荐
 - [Effective DevOps Building a Culture of Collaboration Affinity and Tooling at Scale - 2016.pdf](https://url97.ctfile.com/f/18113597-809947048-9904c4?p=2274)
 - [持续交付-发布可靠软件的系统方法.pdf](https://url97.ctfile.com/f/18113597-809947146-e584cc?p=2274)
 - [Hands-On Security in DevOps](https://www.packtpub.com/networking-and-servers/hands-security-devops)
