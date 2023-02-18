@@ -294,6 +294,8 @@ python测试开发钉钉群：21745728，目前800多人，另有几千人的pyt
 
 * [django-rest-auth](https://github.com/Tivix/django-rest-auth/) - 该应用将所有与注册和验证相关的功能都以 CBV (Class Base View) 和 REST (JSON) 的形式提供，从而使用它来构建 Django SPA (Single Page App) 或移动应用极其方便的。 ★
 * [django-rest-framework](http://www.django-rest-framework.org/) - 一个功能强大且灵活的工具集，用它来构建 Web API 很容易。 ★★★★★
+  * [Django REST框架创建REST API](https://www.jianshu.com/p/6f90f9bf9c23)
+
 * [django-rest-swagger](https://github.com/marcgibbons/django-rest-swagger/) - Django REST 框架的 [Swagger](http://swagger.io/) 文档生成器。 ★★
 * [django-tastypie](https://github.com/django-tastypie/django-tastypie/) - 自 2010 年来就能为 Django 应用创建完美的 API。 ★★
 
@@ -490,6 +492,34 @@ python测试开发钉钉群：21745728，目前800多人，另有几千人的pyt
 * [Django By Example-2015.rar](http://file.allitebooks.com/20160104/Django%20By%20Example.rar)
 * [Two Scoops of Django Best Practices For Django 1-2013.5-2013.pdf](http://file.allitebooks.com/20150514/Two%20Scoops%20of%20Django%20Best%20Practices%20For%20Django%201.5.pdf)
 
+
+- [Django快速入门1-HelloWorld!](https://www.jianshu.com/p/245b64afc7f1)
+
+- [Django快速入门2-Pages应用、模板与单元测试](https://www.jianshu.com/p/5b915017823f)
+
+- [Django快速入门3留言板＆管理页面](https://www.jianshu.com/p/3d9d9e382230)
+
+- [Django快速入门4博客实例&静态文件](https://www.jianshu.com/p/27b0bfa2e51b)
+
+- [Django快速入门5为博客增加表单](https://www.jianshu.com/p/e4c8a4973d15)
+
+- [Django快速入门6为博客增加账号](https://www.jianshu.com/p/174681d68f47)
+
+- [Django快速入门7自定义用户模型](https://www.jianshu.com/p/f0dad3bb2319)
+
+- [Django快速入门8用户验证-报纸应用](https://www.jianshu.com/p/ae8ec192e9bd)
+
+- [Django快速入门9:Bootstrap-报纸实例](https://www.jianshu.com/p/719975d197d3)
+
+- [Django快速入门10:密码修改和重置](https://www.jianshu.com/p/6abfb62ea6ad)
+
+- [Django快速入门11:电子邮件Email配置](https://www.jianshu.com/p/726f8757acdd)
+
+- [Django快速入门12:报纸实例](https://www.jianshu.com/p/491414680f66)
+
+- [Django快速入门13:报纸实例-配置权限](https://www.jianshu.com/p/7eadd8a06984)
+
+- [Django快速入门14:报纸实例-评论](https://www.jianshu.com/p/32c6fcaee2b1)
 
 ## 网站
 
