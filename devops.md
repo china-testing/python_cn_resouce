@@ -417,6 +417,8 @@ DevOps是文化理念、实践和工具的结合，它提高了组织高速交�
 - [Ansible for DevOps 2nd Edition 9780986393433.epub](https://url97.ctfile.com/f/18113597-809948878-6181b3?p=2274) -- 强烈推荐。
 - [Python for DevOps Learn Ruthlessly Effective Automation .epub](https://url97.ctfile.com/f/18113597-809949207-98c778?p=2274)   -- 强烈推荐
 - [DevOps For Dummies 9781119552222.epub](https://url97.ctfile.com/f/18113597-809949261-bd8de6?p=2274)  -- 强烈推荐
+- [Infrastructure as Code, Patterns and Practices -2022.pdf](https://url97.ctfile.com/f/18113597-810326635-e28015?p=2274) (访问密码: 2274) -- 推荐
+- [Continuous Architecture in Practice.epub](https://url97.ctfile.com/f/18113597-810328274-fc01a6?p=2274)
  
 ### 会议
 
