@@ -6,7 +6,7 @@
 
 * [FastAPI库资源大全](https://github.com/china-testing/python_cn_resouce/blob/main/fastapi.md)
 
-* [Python书籍](https://github.com/cshina-testing/python_cn_resouce/blob/main/books.md)
+* [Python书籍](https://github.com/china-testing/python_cn_resouce/blob/main/books.md)
 
 * [社科书籍](https://github.com/china-testing/python_cn_resouce/blob/main/society_books.md)
 
