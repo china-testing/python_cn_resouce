@@ -1,0 +1,4 @@
+Django
+django-crispy-forms
+social-auth-app-django
+python-decouple

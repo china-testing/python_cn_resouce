@@ -1,0 +1,35 @@
+{% extends 'base.html' %}
+
+{% load crispy_forms_tags %}
+
+{% block content %}
+{% include 'classroom/_guest_header.html' %}
+<ul class="nav nav-pills">
+  <li class="nav-item">
+    {% if user_type == 'student' %}
+      <span class="nav-link active">学生注册</span>
+    {%else%}
+      <a class="nav-link" href="{% url 'signup' %}">学生注册</a>
+    {% endif %}
+  </li>
+  <li class="nav-item">
+    {% if user_type == 'teacher' %}
+      <span class="nav-link active">教师注册</span>
+    {%else%}
+      <a class="nav-link" href="{% url 'teacher_signup' %}">教师注册</a>
+    {% endif %}
+  </li>
+</ul>
+
+  <div class="row">
+    <div class="col-md-8 col-sm-10 col-12">
+      <h2>Sign up as a {{ user_type }}</h2>
+      <form method="post" novalidate>
+        {% csrf_token %}
+        <input type="hidden" name="next" value="{{ next }}">
+        {{ form|crispy }}
+        <button type="submit" class="btn btn-success">注册</button>
+      </form>
+    </div>
+  </div>
+{% endblock %}

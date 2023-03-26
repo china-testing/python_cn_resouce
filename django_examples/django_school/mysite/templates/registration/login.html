@@ -1,0 +1,30 @@
+{% extends 'base.html' %}
+
+{% load crispy_forms_tags %}
+
+{% block content %}
+  {% include 'classroom/_guest_header.html' %}
+  {% if form.non_field_errors %}
+    <div class="alert alert-danger alert-dismissible fade show" role="alert">
+      {% for error in form.non_field_errors %}
+        <p{% if forloop.last %} class="mb-0"{% endif %}>{{ error }}</p>
+      {% endfor %}
+      <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+        <span aria-hidden="true">&times;</span>
+      </button>
+    </div>
+  {% endif %}
+  <div class="row">
+    <div class="col-lg-4 col-md-6 col-sm-8 col-12">
+      <h2>Log in</h2>
+      <form method="post" novalidate>
+        {% csrf_token %}
+        <input type="hidden" name="next" value="{{ next }}">
+        {{ form.username|as_crispy_field }}
+        {{ form.password|as_crispy_field }}
+        <button type="submit" class="btn btn-primary">Log in</button> <hr> 或新用户 <a href="{% url 'signup' %}">注册</a>
+      </form>
+      <hr>
+    </div>
+  </div>
+{% endblock %}
