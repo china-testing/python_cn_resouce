@@ -3,6 +3,7 @@
 ### 参考资料
 
 - 书籍来源： https://github.com/china-testing/python_cn_resouce/blob/main/books.md
+- 下载来源： https://github.com/china-testing/python_cn_resouce/blob/main/python_good_books.md 
 
 ###  Python编程：从入门到实践（第2版）
 
@@ -14,9 +15,13 @@
 https://github.com/ehmatthes/pcc_3e/
 https://github.com/ehmatthes/pcc_2e/
 
-- 英文版
+- 下载
 
-Python Crash Course 3rd Edition.pdf: [https://url97.ctfile.com/f/18113597-812539319-0fab3e?p=2274](https://link.zhihu.com/?target=https%3A//url97.ctfile.com/f/18113597-812539319-0fab3e%3Fp%3D2274) 访问密码: 2274
+Python编程：从入门到实践（第2版）.epub 目前存放钉钉群21745728，后面有空更新。
+
+- 英文版下载
+
+[Python Crash Course 3rd Edition.pdf](https://url97.ctfile.com/f/18113597-812539319-0fab3e?p=2274) 访问密码: 2274 无需注册点普通下载
 
 ![](https://upload-images.jianshu.io/upload_images/12713060-fb22d8e555ca5057.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -33,20 +38,22 @@ Python Crash Course 3rd Edition.pdf: [https://url97.ctfile.com/f/18113597-81253
 
 ![image](http://upload-images.jianshu.io/upload_images/12713060-623ed7473127a552.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-https://github.com/fluentpython/example-code 2000+ 星 强烈推荐
+https://github.com/fluentpython/example-code 5000+ 星 强烈推荐
 
-- 英文版本
+- 英文版本下载
 
-Fluent Python, 2nd Edition.epub
-
-[https://url97.ctfile.com/f/18113597-812539535-a446e9?p=2274](https://link.zhihu.com/?target=https%3A//url97.ctfile.com/f/18113597-812539535-a446e9%3Fp%3D2274) 访问密码: 2274
+[Fluent Python, 2nd Edition.epub](https://url97.ctfile.com/f/18113597-812539535-a446e9?p=2274)  访问密码: 2274 无需注册点普通下载
 
 ![](https://upload-images.jianshu.io/upload_images/12713060-516b74967306bfd4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+- 中文版下载
+
+[流畅的python - 2017.pdf](https://u062.com/file/18113597-318436791)  访问密码: 2274 无需注册点普通下载
 
 
 ## 数据科学&数据分析
 
-### [Data Science from Scratch: First Principles with Python](https://itbooks.pipipan.com/fs/18113597-304377235)
+### Data Science from Scratch: First Principles with Python
 
 要真正学习数据科学，你不仅要掌握工具--数据科学库、框架、模块和工具包，还要理解它们背后的思想和原理。这本《从零开始的数据科学》第二版针对Python 3.6进行了更新，通过从零开始实施这些工具和算法，向你展示了这些工具和算法是如何工作的。
 
@@ -65,6 +72,12 @@ Fluent Python, 2nd Edition.epub
 亚马逊 4.4星 600+评
 
 https://github.com/joelgrus/data-science-from-scratch 7600+ 星
+
+- 英文版本下载
+
+[Data Science from Scratch: First Principles with Python](https://itbooks.pipipan.com/fs/18113597-304377235) 访问密码: 2274 无需注册点普通下载
+
+Data Science from Scratch First Principles with Python, Second Edition.epub 目前存放钉钉群21745728，后面有空更新。
 
 ### Effective Pandas: Patterns for Data Manipulation
 
@@ -85,9 +98,13 @@ https://github.com/mattharrison/effective_pandas_book
 
 ![](https://upload-images.jianshu.io/upload_images/12713060-5db71e6ab89ee34f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+- 英文版本下载
+
+Effective Pandas Patterns for Data Manipulation 9798772692936.pdf  目前存放钉钉群21745728，后面有空更新。
+
 ## 人工智能
 
-### Python深度学习  [Deep Learning with Python François Chollet - 2018.pdf](https://u18113597.pipipan.com/fs/18113597-308038660) -- 强烈推荐
+### Python深度学习
 
 
 - 【作者简介】 弗朗索瓦·肖莱（Franc?ois Chollet）
@@ -107,7 +124,16 @@ https://github.com/mattharrison/effective_pandas_book
 
 ![](https://upload-images.jianshu.io/upload_images/12713060-6087d053b45adb1b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-### 机器学习实战:基于Scikit-Learn和TensorFlow  [Hands-On Machine Learning with Scikit-Learn and TensorFlow - 2017.pdf](https://u18113597.pipipan.com/fs/18113597-307930887)
+- 英文版本下载
+
+Deep Learning with Python, Second Edition.epub  目前存放钉钉群21745728，后面有空更新。
+
+- 中文版本下载
+
+Python深度学习 目前存放钉钉群21745728，后面有空更新。
+
+
+### 机器学习实战:基于Scikit-Learn和TensorFlow  
 
 ![图片.png](https://upload-images.jianshu.io/upload_images/12713060-0f86b03743bfd965.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -121,9 +147,18 @@ https://github.com/mattharrison/effective_pandas_book
 
  * [源码地址](https://github.com/ageron/handson-ml) github星级 10000左右
  * 页数： 564
+ 
+- 英文版本下载
 
-### [Machine Learning For Absolute Beginners, 2nd Edition-Oliver Theobald(2017).pdf](https://u18113597.pipipan.com/fs/18113597-307931760)
+Hands-On Machine Learning with Scikit-Learn and TensorFlow 2nd 目前存放钉钉群21745728，后面有空更新。
 
+ 
+- 中文版本下载
+
+机器学习实战：基于Scikit-Learn、Keras和TensorFlow：原书第2版.pdf 目前存放钉钉群21745728，后面有空更新。
+
+
+### Machine Learning For Absolute Beginners 3rd
 ![图片.png](https://upload-images.jianshu.io/upload_images/12713060-4bdd8d29122c6c17.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
@@ -131,3 +166,7 @@ Machine Learning for Absolute Beginners Second Edition为完全初学者编写�
 
  * [源码地址：后期找到补上](https://github.com/china-testing/python-api-tesing) github星级 
  * 页数： 128
+
+- 英文版本下载
+
+Machine Learning for Absolute Beginners A Plain English Introduction (Third Edition) - 2021 目前存放钉钉群21745728，后面有空更新。
