@@ -419,3 +419,10 @@ Django for Professionals将你的网络开发技能提升到一个新的水平�
 * [Django for Professionals Production websites with Python & Django 9781735467238.epub](https://url97.ctfile.com/f/18113597-809547567-83d5c1?p=2274) 
 * [Django for Beginners Build websites with Python & Django 9781735467207.epub](https://url97.ctfile.com/f/18113597-809547545-b33b76?p=2274)
 * [Django for APIs Build web APIs with Python & Django 9781093633948.epub](https://url97.ctfile.com/f/18113597-809547517-697dfb?p=2274)
+
+## 测试&DevOps
+
+### Publishing Python Packages Test, share, and automate your projects
+
+
+![](https://m.media-amazon.com/images/I/41hiQZhl4pL._SX397_BO1,204,203,200_.jpg)
