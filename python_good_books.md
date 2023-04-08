@@ -27,6 +27,26 @@ Python Crash Course 3rd Edition.pdf: [https://url97.ctfile.com/f/18113597-81253
 
 ![](https://upload-images.jianshu.io/upload_images/12713060-fb22d8e555ca5057.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+### 笨办法学_Python
+
+
+![](https://upload-images.jianshu.io/upload_images/12713060-cedc624c14e786b5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+本书是一本Python入门书，适合对计算机了解不多，没有学过编程，但对编程感兴趣的读者学习使用。这本书以习题的方式引导读者一步一步学习编程，从简单的打印一直讲到完整项目的实现，让初学者从基础的编程技术入手，最终体验到软件开发的基本过程。本书是基于Python 3.6版本编写的。
+
+本书结构非常简单，除“准备工作”之外，还包括52个习题，其中26个覆盖了输入/输出、变量和函数3个主题，另外26个覆盖了一些比较进阶的话题，如条件判断、循环、类和对象、代码测试及项目的实现等。每一章的格式基本相同，以代码习题开始，按照说明编写代码，运行并检查结果，然后再做附加练习。
+
+- 中文版
+
+ [笨办法学Python第四版.epub](https://url97.ctfile.com/f/18113597-836386642-bbe214?p=2274) 访问密码: 2274
+
+
+- 英文版
+
+[Learn More Python 3 the Hard Way The Next Step for New Python Programmers  9780134692883.pdf](https://url97.ctfile.com/f/18113597-836387689-d6e414?p=2274) 访问密码: 2274
+
+![](https://upload-images.jianshu.io/upload_images/12713060-258aa16df8b00003.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 ###  Coding for Kids: Python: Learn to Code with 50 Awesome Games and Activities
 
 ![](https://upload-images.jianshu.io/upload_images/12713060-dc7ed51993b90093.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
@@ -83,25 +103,7 @@ Python Crash Course 3rd Edition.pdf: [https://url97.ctfile.com/f/18113597-81253
 
 https://github.com/IFinners/automate-the-boring-stuff-projects 亚马逊4.7星 1800+评
 
-### 笨办法学_Python
 
-
-![](https://upload-images.jianshu.io/upload_images/12713060-cedc624c14e786b5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-本书是一本Python入门书，适合对计算机了解不多，没有学过编程，但对编程感兴趣的读者学习使用。这本书以习题的方式引导读者一步一步学习编程，从简单的打印一直讲到完整项目的实现，让初学者从基础的编程技术入手，最终体验到软件开发的基本过程。本书是基于Python 3.6版本编写的。
-
-本书结构非常简单，除“准备工作”之外，还包括52个习题，其中26个覆盖了输入/输出、变量和函数3个主题，另外26个覆盖了一些比较进阶的话题，如条件判断、循环、类和对象、代码测试及项目的实现等。每一章的格式基本相同，以代码习题开始，按照说明编写代码，运行并检查结果，然后再做附加练习。
-
-- 中文版
-
- [笨办法学Python第四版.epub](https://url97.ctfile.com/f/18113597-836386642-bbe214?p=2274) 访问密码: 2274
-
-
-- 英文版
-
-[Learn More Python 3 the Hard Way The Next Step for New Python Programmers  9780134692883.pdf](https://url97.ctfile.com/f/18113597-836387689-d6e414?p=2274) 访问密码: 2274
-
-![](https://upload-images.jianshu.io/upload_images/12713060-258aa16df8b00003.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
 ###  Python Programming for Beginners 2023
@@ -126,6 +128,8 @@ https://github.com/IFinners/automate-the-boring-stuff-projects 亚马逊4.7星 1
 - 附带：Python面试问题和答案，用于破解面试（扫描书中的QR码）。
 - ...还有很多很多·
 
+[Python Programming for Beginners 9798354101856.epub](https://url97.ctfile.com/f/18113597-836823807-0fea2a?p=2274) (访问密码: 2274)
+
 ![](https://m.media-amazon.com/images/P/B0BTRRLCYZ.01._SCLZZZZZZZ_SX500_.jpg)
 
 - 英文版本下载
@@ -137,6 +141,8 @@ https://github.com/IFinners/automate-the-boring-stuff-projects 亚马逊4.7星 1
 Python for Everybody旨在通过探索数据的视角向学生介绍编程和软件开发。你可以把Python编程语言看作是你解决电子表格所不能解决的数据问题的工具。
 
 - 英文版本下载
+
+[Python for Everybody -2016 A4.6-1721--.epub](https://url97.ctfile.com/f/18113597-836823336-2ecea9?p=2274) (访问密码: 2274)
 
 
 
@@ -206,6 +212,8 @@ Fluent Python, 2nd Edition.epub
 
 [Python 3 Object-Oriented Programming 3rd Edition - 2018.Pdf](https://url97.ctfile.com/f/18113597-335796100-667305?p=2274)
 
+[Python Object-Oriented Programming 4th.epub](https://url97.ctfile.com/f/18113597-836822808-9458d8?p=2274) (访问密码: 2274)
+
 
 - 中文版下载 
 
@@ -221,13 +229,13 @@ Fluent Python, 2nd Edition.epub
 
 本书适合想要进一步提高自身Python编程技能的读者阅读，也适合对Python编程感兴趣的读者参考学习。全书结合典型且实用的开发案例，可以帮助读者创建高性能的、可靠且可维护的Python应用。
 
+[Python高级编程.epub](https://url97.ctfile.com/f/18113597-836818052-6d96b0?p=2274) (访问密码: 2274)
 
-
-
+[Expert Python Programming Master Python by learning the best coding practices and advanced programming concepts, 4th Edition .epub](https://url97.ctfile.com/f/18113597-836821972-e8c479?p=2274) (访问密码: 2274)
 
 ## 数据科学&数据分析
 
-### [Data Science from Scratch: First Principles with Python](https://itbooks.pipipan.com/fs/18113597-304377235)
+### [Data Science from Scratch: First Principles with Python
 
 要真正学习数据科学，你不仅要掌握工具--数据科学库、框架、模块和工具包，还要理解它们背后的思想和原理。这本《从零开始的数据科学》第二版针对Python 3.6进行了更新，通过从零开始实施这些工具和算法，向你展示了这些工具和算法是如何工作的。
 
@@ -239,6 +247,8 @@ Fluent Python, 2nd Edition.epub
 - 深入了解机器学习的基本原理
 - 实施模型，如k-nearest neighbors、Naïve Bayes、线性和逻辑回归、决策树、神经网络和聚类。
 - 探索推荐系统、自然语言处理、网络分析、MapReduce和数据库。
+
+[Data Science from Scratch First Principles with Python, Second Edition.epub](https://url97.ctfile.com/f/18113597-836384164-2b21a0?p=2274)
 
 ![](https://upload-images.jianshu.io/upload_images/12713060-193b89d2557bd790.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -262,13 +272,15 @@ https://github.com/joelgrus/data-science-from-scratch 7600+ 星
 - 调试代码
 - 以及更多...
 
+[Effective Pandas Patterns for Data Manipulation 9798772692936.pdf](https://url97.ctfile.com/f/18113597-836816207-ce507b?p=2274)
+
 https://github.com/mattharrison/effective_pandas_book
 
 ![](https://upload-images.jianshu.io/upload_images/12713060-5db71e6ab89ee34f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ## 人工智能
 
-### Python深度学习  [Deep Learning with Python François Chollet - 2018.pdf](https://u18113597.pipipan.com/fs/18113597-308038660) -- 强烈推荐
+### Python深度学习
 
 
 - 【作者简介】 弗朗索瓦·肖莱（Franc?ois Chollet）
@@ -277,6 +289,14 @@ https://github.com/mattharrison/effective_pandas_book
 - 内容简介：
 
 本书由流行深度学习框架Keras之父弗朗索瓦·肖莱执笔，通过直观的解释和丰富的示例帮助你构建深度学习知识体系。作者避免使用数学符号，转而采用Python代码来解释深度学习的核心思想。全书共计14章，既涵盖了深度学习的基本原理，又体现了这一迅猛发展的领域在近几年里取得的重要进展，包括Transformer架构的原理和示例。读完本书后，你将能够使用Keras解决从计算机视觉到自然语言处理等现实世界的诸多问题，包括图像分类、图像分割、时间序列预测、文本分类、机器翻译、文本生成等。
+
+[Python深度学习.pdf](https://url97.ctfile.com/f/18113597-812539622-8dd0d1?p=2274)
+
+[Deep Learning with Python  François Chollet - 2018.pdf]( https://url97.ctfile.com/f/18113597-308038660-0ae5b0?p=2274)
+
+[Deep Learning with Python, Second Edition -2021.epub](https://url97.ctfile.com/f/18113597-812539564-1cf1db?p=2274)
+
+
 
 ![](https://upload-images.jianshu.io/upload_images/12713060-3c4199133358b17e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -288,11 +308,13 @@ https://github.com/mattharrison/effective_pandas_book
 
 ![](https://upload-images.jianshu.io/upload_images/12713060-6087d053b45adb1b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-### 机器学习实战:基于Scikit-Learn和TensorFlow  [Hands-On Machine Learning with Scikit-Learn and TensorFlow - 2017.pdf](https://u18113597.pipipan.com/fs/18113597-307930887)
+### 机器学习实战:基于Scikit-Learn和TensorFlow
+
+[Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow Concepts, Tools, and Techniques to Build Intelligent 2nd - 2019.epub](https://url97.ctfile.com/f/18113597-836384285-dfe5d1?p=2274) (访问密码: 2274)
 
 ![](https://upload-images.jianshu.io/upload_images/12713060-0f86b03743bfd965.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-[机器学习实战：基于Scikit-Learn和TensorFlow - 2018.pdf](https://itbooks.pipipan.com/fs/18113597-318701937)
+[机器学习实战：基于Scikit-Learn、Keras和TensorFlow：原书第2版.pdf](https://url97.ctfile.com/f/18113597-836384414-3fa65e?p=2274) (访问密码: 2274)
 
 
 ![](https://upload-images.jianshu.io/upload_images/12713060-ab94957cab299acc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
@@ -312,6 +334,8 @@ Machine Learning for Absolute Beginners Second Edition为完全初学者编写�
 
  * [源码地址：后期找到补上](https://github.com/china-testing/python-api-tesing) github星级 
  * 页数： 128
+ 
+ [Machine Learning for Absolute Beginners A Plain English Introduction 3rd Edition]( https://url97.ctfile.com/f/18113597-836384450-6a619e?p=2274) (访问密码: 2274)
 
 ### Make Your Own Neural Network
 
@@ -320,6 +344,8 @@ Machine Learning for Absolute Beginners Second Edition为完全初学者编写�
 
 
 本书首先从简单的思路着手，详细介绍了理解神经网络如何工作所必须的基础知识。第一部分介绍基本的思路，包括神经网络底层的数学知识，第2部分是实践，介绍了学习Python编程的流行和轻松的方法，从而逐渐使用该语言构建神经网络，以能够识别人类手写的字母，特别是让其像专家所开发的网络那样地工作。第3部分是扩展，介绍如何将神经网络的性能提升到工业应用的层级，甚至让其在Raspberry Pi上工作。
+
+[Make Your Own Neural Network 9781530826605.azw3](https://url97.ctfile.com/f/18113597-836813595-c2170f?p=2274) (访问密码: 2274)
 
  * [源码](https://github.com/makeyourownneuralnetwork/makeyourownneuralnetwork) github星级  2100+
  * 页数：222
@@ -333,15 +359,15 @@ Machine Learning for Absolute Beginners Second Edition为完全初学者编写�
 ![](https://upload-images.jianshu.io/upload_images/12713060-499d9333136b5326.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
-
-
 本书采用简洁强大的Python语言，介绍了网络数据采集，并为采集新式网络中的各种数据类型提供了全面的指导。第 1部分重点介绍网络数据采集的基本原理：如何用Python从网络服务器请求信息，如何对服务器的响应进行基本处理，以及如何以自动化手段与网站进行交互。第 二部分介绍如何用网络爬虫测试网站，自动化处理，以及如何通过更多的方式接入网络。
 
 Web Scraping with Python 2nd - 2018.pdf
 
 https://github.com/REMitchell/python-scraping 2000左右星
 
-Python网络数据采集 - 2016.pdf
+[Python网络数据采集.mobi](https://url97.ctfile.com/f/18113597-836812257-3b5340?p=2274) (访问密码: 2274)
+
+[Web Scraping with Python  2nd - 2018.pdf](https://url97.ctfile.com/f/18113597-308347783-f7b8a9?p=2274)
 
 ### Mastering Python Networking
 
@@ -360,6 +386,8 @@ Python网络数据采集 - 2016.pdf
 - 探索Python 3中新的AsyncIO功能及其概念
 - 探索测试驱动开发的概念，并使用PyTest来驱动代码测试覆盖率
 - 了解GitLab如何与网络中的DevOps实践一起使用
+
+[Mastering Python Networking.epub](https://url97.ctfile.com/f/18113597-836811905-3be0d0?p=2274) (访问密码: 2274)
 
 ![](https://m.media-amazon.com/images/I/51bYi5SkQnL._SX403_BO1,204,203,200_.jpg)
 
@@ -423,6 +451,21 @@ Django for Professionals将你的网络开发技能提升到一个新的水平�
 ## 测试&DevOps
 
 ### Publishing Python Packages Test, share, and automate your projects
+
+
+创建高超的、可维护的Python包! 本书包括设计、自动化、测试、部署，甚至作为开源项目发布的专业技巧
+
+在《发布Python包》中，你将学习如何：
+
+- 构建扩展和控制台脚本命令
+- 使用tox来自动打包、安装和测试
+- 使用GitHub Actions构建持续集成管道
+- 使用black、mypy和flake8提高代码质量并减少人工审查
+- 为你的软件包创建发布的文档
+- 使用pyupgrade和Dependabot保持软件包的最新状态
+- 使用GitHub的功能培养一个开放的源代码社区
+
+[Effective Python 2nd Edition 9780134853987.epub](https://url97.ctfile.com/f/18113597-836403066-902399?p=2274) (访问密码: 2274)
 
 
 ![](https://m.media-amazon.com/images/I/41hiQZhl4pL._SX397_BO1,204,203,200_.jpg)
