@@ -1,9 +1,11 @@
-## 基础
+# Python精品书籍
 
 ### 参考资料
 
 - 书籍来源： https://github.com/china-testing/python_cn_resouce/blob/main/books.md
 - 下载来源： https://github.com/china-testing/python_cn_resouce/blob/main/python_good_books.md 
+
+## 基础
 
 ###  Python编程：从入门到实践（第2版）
 
@@ -15,16 +17,91 @@
 https://github.com/ehmatthes/pcc_3e/
 https://github.com/ehmatthes/pcc_2e/
 
-- 下载
+- 英文版
 
-Python编程：从入门到实践（第2版）.epub 目前存放钉钉群21745728，后面有空更新。
+Python Crash Course 3rd Edition.pdf: [https://url97.ctfile.com/f/18113597-812539319-0fab3e?p=2274](https://url97.ctfile.com/f/18113597-812539319-0fab3e?p=2274) 访问密码: 2274
 
-- 英文版下载
+- 中文版
 
-[Python Crash Course 3rd Edition.pdf](https://url97.ctfile.com/f/18113597-812539319-0fab3e?p=2274) 访问密码: 2274 无需注册点普通下载
+[Python编程：从入门到实践 第2版.epub](https://url97.ctfile.com/f/18113597-836384027-d99400?p=2274) 访问密码: 2274
 
 ![](https://upload-images.jianshu.io/upload_images/12713060-fb22d8e555ca5057.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+###  Coding for Kids: Python: Learn to Code with 50 Awesome Games and Activities
+
+![](https://upload-images.jianshu.io/upload_images/12713060-dc7ed51993b90093.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+教10岁以上儿童用Python编程的游戏和活动
+
+学习编码并不像听起来那么难--你只需要开始就可以了 孩子们的编码： Python以50个有趣的互动活动让孩子们开始学习Python编程语言的基础知识。从学习编程的基本构件到创建他们自己的游戏，孩子们将通过独特的课程进展，其中包含有用的例子和一点愚蠢的东西！孩子们将跟着开始编码！
+
+孩子们将一步一步地开始编码（并调试他们的代码），实时看到他们编码的结果。每章末尾的活动有助于通过结合多种概念来测试他们的新知识。对于那些真正想展示自己创造力的年轻程序员来说，每一章后都有额外的棘手的挑战要解决。孩子们只需要一台电脑和这本书就可以开始了。
+
+这本儿童Python初学者指南包括：
+- 50个创新练习--通过基于游戏的练习，创建代码块，使用预先写好的模块画图等，使编码概念变得生动。
+- 简单易懂的指导--新的编码者将得到详尽的说明、示例代码和新的编程术语的解释的支持。
+- 吸引人的视觉课程-彩色插图和屏幕截图供参考，有助于吸引孩子们的兴趣，并保持课程的清晰和简单。
+
+
+鼓励孩子们独立思考，并通过这本儿童编码书享受学习一项惊人的新技能的乐趣。
+
+- 英文版
+
+ [Coding for Kids Python Learn to Code with 50 Awesome Games and Activities.epub](https://url97.ctfile.com/f/18113597-836384493-e6da67?p=2274) 访问密码: 2274
+
+### Python Tricks A Buffet of Awesome Python Features
+
+"我甚至不觉得我已经触及了用Python可以做的事情的表面"
+
+有了Python技巧： 这本书，你会发现Python的最佳实践，以及通过简单的例子和循序渐进的叙述，发现美丽和Pythonic代码的力量。
+
+你将离掌握Python更近一步，这样你就可以自然而然地写出漂亮的、成语式的代码。
+
+学习Python的来龙去脉是很困难的--有了这本书，你就能专注于真正重要的实用技能。发现Python标准库中的 "藏金"，今天就开始写干净的Pythonic代码。
+
+- 英文版
+
+ [Python Tricks A Buffet of Awesome Python Features.epub](https://url97.ctfile.com/f/18113597-836384477-9d65bb?p=2274) 访问密码: 2274
+
+![](https://upload-images.jianshu.io/upload_images/12713060-b2f6159cfe7f9f50.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+### Python编程快速上手——让繁琐工作自动化 - 2016.pdf
+
+
+![图片.png](https://upload-images.jianshu.io/upload_images/12713060-dd779dbedb001425.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+如今，人们面临的大多数任务都可以通过编写计算机软件来完成。Python是一种解释型、面向对象、动态数据类型的高 级程序设计语言。通过Python编程，我们能够解决现实生活中的很多任务。 本书是一本面向实践的Python编程实用指南。本书的目的，不仅是介绍Python语言的基础知识，而且还通过项目实践教会读者如何应用这些知识和技能。本书的首部分介绍了基本Python编程概念，第 二部分介绍了一些不同的任务，通过编写Python程序，可以让计算机自动完成它们。第 二部分的每一章都有一些项目程序，供读者学习。每章的末尾还提供了一些习题和深入的实践项目，帮助读者巩固所学的知识。附录部分提供了所有习题的解答。 本书适合任何想要通过Python学习编程的读者，尤其适合缺乏编程基础的初学者。通过阅读本书，读者将能利用强大的编程语言和工具，并且会体会到Python编程的快乐。
+
+- 中文版
+
+ [python编程快速上手让繁琐工作自动化1826693.epub](https://url97.ctfile.com/f/18113597-836385305-bc9a07?p=2274) 访问密码: 2274
+
+- 英文版
+
+[Automate the Boring Stuff with Python Practical Programming for Total Beginners 2nd.epub](https://url97.ctfile.com/f/18113597-836384473-fb09ca?p=2274) 访问密码: 2274
+
+https://github.com/IFinners/automate-the-boring-stuff-projects 亚马逊4.7星 1800+评
+
+### 笨办法学_Python
+
+
+![图片.png](https://upload-images.jianshu.io/upload_images/12713060-cedc624c14e786b5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+本书是一本Python入门书，适合对计算机了解不多，没有学过编程，但对编程感兴趣的读者学习使用。这本书以习题的方式引导读者一步一步学习编程，从简单的打印一直讲到完整项目的实现，让初学者从基础的编程技术入手，最终体验到软件开发的基本过程。本书是基于Python 3.6版本编写的。
+
+本书结构非常简单，除“准备工作”之外，还包括52个习题，其中26个覆盖了输入/输出、变量和函数3个主题，另外26个覆盖了一些比较进阶的话题，如条件判断、循环、类和对象、代码测试及项目的实现等。每一章的格式基本相同，以代码习题开始，按照说明编写代码，运行并检查结果，然后再做附加练习。
+
+- 中文版
+
+ [笨办法学Python第四版.epub](https://url97.ctfile.com/f/18113597-836386642-bbe214?p=2274) 访问密码: 2274
+
+
+- 英文版
+
+[Learn More Python 3 the Hard Way The Next Step for New Python Programmers  9780134692883.pdf](https://url97.ctfile.com/f/18113597-836387689-d6e414?p=2274) 访问密码: 2274
+
+![图片.png](https://upload-images.jianshu.io/upload_images/12713060-258aa16df8b00003.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ## 进阶
 
