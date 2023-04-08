@@ -38,22 +38,45 @@ Python编程：从入门到实践（第2版）.epub 目前存放钉钉群2174572
 
 ![image](http://upload-images.jianshu.io/upload_images/12713060-623ed7473127a552.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-https://github.com/fluentpython/example-code 5000+ 星 强烈推荐
+https://github.com/fluentpython/example-code 2000+ 星 强烈推荐
 
-- 英文版本下载
+- 中文版
 
-[Fluent Python, 2nd Edition.epub](https://url97.ctfile.com/f/18113597-812539535-a446e9?p=2274)  访问密码: 2274 无需注册点普通下载
+ [流畅的python.epub](https://url97.ctfile.com/f/18113597-836388230-82edd5?p=2274) 访问密码: 2274
+
+- 英文版本
+
+Fluent Python, 2nd Edition.epub
+
+[https://url97.ctfile.com/f/18113597-812539535-a446e9?p=2274](https://url97.ctfile.com/f/18113597-812539535-a446e9?p=2274) 访问密码: 2274
 
 ![](https://upload-images.jianshu.io/upload_images/12713060-516b74967306bfd4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-- 中文版下载
+### Effective Python.编写高质量Python代码的59个有效方法 -2016.pdf
 
-[流畅的python - 2017.pdf](https://u062.com/file/18113597-318436791)  访问密码: 2274 无需注册点普通下载
+
+![](https://upload-images.jianshu.io/upload_images/12713060-70fc67961563bf39.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+本书作者BrettSlatkin以使用场景为主导的精练教学方式，汇聚了59条优秀的实践原则、开发技巧和便捷方案，并以实用的代码范例来解释它们。作者根据自己在Google公司多年开发Python基础架构所积累的经验，揭示了Python语言中一些鲜为人知的微妙特性，并给出了能够改善代码功能及运行效率的习惯用法。通过本书，你能够了解到解决关键编程任务所用的最佳方式，并学会编写易于理解、便于维护且利于改进的代码。
+
+
+亚马逊 英文 4.7星 400+评
+
+
+[图片上传失败...(image-3ee6ee-1680875491811)]
+
+- 中文版
+
+ [Effective Python.编写高质量Python代码的59个有效方法.Brett Slatkin.pdf](https://url97.ctfile.com/f/18113597-836394531-b1dcfc?p=2274) 访问密码: 2274
+
+- 英文版本
+
+[Effective Python 2nd Edition 9780134853987.epub](https://url97.ctfile.com/f/18113597-836403066-902399?p=2274) 访问密码: 2274
 
 
 ## 数据科学&数据分析
 
-### Data Science from Scratch: First Principles with Python
+### [Data Science from Scratch: First Principles with Python](https://itbooks.pipipan.com/fs/18113597-304377235)
 
 要真正学习数据科学，你不仅要掌握工具--数据科学库、框架、模块和工具包，还要理解它们背后的思想和原理。这本《从零开始的数据科学》第二版针对Python 3.6进行了更新，通过从零开始实施这些工具和算法，向你展示了这些工具和算法是如何工作的。
 
@@ -72,12 +95,6 @@ https://github.com/fluentpython/example-code 5000+ 星 强烈推荐
 亚马逊 4.4星 600+评
 
 https://github.com/joelgrus/data-science-from-scratch 7600+ 星
-
-- 英文版本下载
-
-[Data Science from Scratch: First Principles with Python](https://itbooks.pipipan.com/fs/18113597-304377235) 访问密码: 2274 无需注册点普通下载
-
-Data Science from Scratch First Principles with Python, Second Edition.epub 目前存放钉钉群21745728，后面有空更新。
 
 ### Effective Pandas: Patterns for Data Manipulation
 
@@ -98,13 +115,9 @@ https://github.com/mattharrison/effective_pandas_book
 
 ![](https://upload-images.jianshu.io/upload_images/12713060-5db71e6ab89ee34f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-- 英文版本下载
-
-Effective Pandas Patterns for Data Manipulation 9798772692936.pdf  目前存放钉钉群21745728，后面有空更新。
-
 ## 人工智能
 
-### Python深度学习
+### Python深度学习  [Deep Learning with Python François Chollet - 2018.pdf](https://u18113597.pipipan.com/fs/18113597-308038660) -- 强烈推荐
 
 
 - 【作者简介】 弗朗索瓦·肖莱（Franc?ois Chollet）
@@ -124,16 +137,7 @@ Effective Pandas Patterns for Data Manipulation 9798772692936.pdf  目前存放�
 
 ![](https://upload-images.jianshu.io/upload_images/12713060-6087d053b45adb1b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-- 英文版本下载
-
-Deep Learning with Python, Second Edition.epub  目前存放钉钉群21745728，后面有空更新。
-
-- 中文版本下载
-
-Python深度学习 目前存放钉钉群21745728，后面有空更新。
-
-
-### 机器学习实战:基于Scikit-Learn和TensorFlow  
+### 机器学习实战:基于Scikit-Learn和TensorFlow  [Hands-On Machine Learning with Scikit-Learn and TensorFlow - 2017.pdf](https://u18113597.pipipan.com/fs/18113597-307930887)
 
 ![图片.png](https://upload-images.jianshu.io/upload_images/12713060-0f86b03743bfd965.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -147,18 +151,9 @@ Python深度学习 目前存放钉钉群21745728，后面有空更新。
 
  * [源码地址](https://github.com/ageron/handson-ml) github星级 10000左右
  * 页数： 564
- 
-- 英文版本下载
 
-Hands-On Machine Learning with Scikit-Learn and TensorFlow 2nd 目前存放钉钉群21745728，后面有空更新。
+### [Machine Learning For Absolute Beginners, 2nd Edition-Oliver Theobald(2017).pdf](https://u18113597.pipipan.com/fs/18113597-307931760)
 
- 
-- 中文版本下载
-
-机器学习实战：基于Scikit-Learn、Keras和TensorFlow：原书第2版.pdf 目前存放钉钉群21745728，后面有空更新。
-
-
-### Machine Learning For Absolute Beginners 3rd
 ![图片.png](https://upload-images.jianshu.io/upload_images/12713060-4bdd8d29122c6c17.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
@@ -167,6 +162,32 @@ Machine Learning for Absolute Beginners Second Edition为完全初学者编写�
  * [源码地址：后期找到补上](https://github.com/china-testing/python-api-tesing) github星级 
  * 页数： 128
 
-- 英文版本下载
+### Make Your Own Neural Network
 
-Machine Learning for Absolute Beginners A Plain English Introduction (Third Edition) - 2021 目前存放钉钉群21745728，后面有空更新。
+
+![图片.png](https://upload-images.jianshu.io/upload_images/12713060-264b48bbad58bcad.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+本书首先从简单的思路着手，详细介绍了理解神经网络如何工作所必须的基础知识。第一部分介绍基本的思路，包括神经网络底层的数学知识，第2部分是实践，介绍了学习Python编程的流行和轻松的方法，从而逐渐使用该语言构建神经网络，以能够识别人类手写的字母，特别是让其像专家所开发的网络那样地工作。第3部分是扩展，介绍如何将神经网络的性能提升到工业应用的层级，甚至让其在Raspberry Pi上工作。
+
+ * [源码](https://github.com/makeyourownneuralnetwork/makeyourownneuralnetwork) github星级  2100+
+ * 页数：222
+
+## 爬虫
+
+### Python网络数据采集  初级
+
+![图片.png](https://upload-images.jianshu.io/upload_images/12713060-d3398ebcc7e42078.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![图片.png](https://upload-images.jianshu.io/upload_images/12713060-499d9333136b5326.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+
+
+本书采用简洁强大的Python语言，介绍了网络数据采集，并为采集新式网络中的各种数据类型提供了全面的指导。第 1部分重点介绍网络数据采集的基本原理：如何用Python从网络服务器请求信息，如何对服务器的响应进行基本处理，以及如何以自动化手段与网站进行交互。第 二部分介绍如何用网络爬虫测试网站，自动化处理，以及如何通过更多的方式接入网络。
+
+Web Scraping with Python 2nd - 2018.pdf
+
+https://github.com/REMitchell/python-scraping 2000左右星
+
+Python网络数据采集 - 2016.pdf
