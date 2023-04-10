@@ -145,6 +145,22 @@ Python for Everybody旨在通过探索数据的视角向学生介绍编程和软
 [Python for Everybody -2016 A4.6-1721--.epub](https://url97.ctfile.com/f/18113597-836823336-2ecea9?p=2274) (访问密码: 2274)
 
 
+### The Python Quiz Book
+
+![](https://m.media-amazon.com/images/I/41A0ON6ss9L.jpg)
+
+用有趣的方式测试你的Python编程语言......而不是在你的代码中犯恼人的错误
+
+Python测验书的作用正如其封面上所说的那样。它充满了引人入胜的脑筋急转弯，从初学者到高级程序员都会抓耳挠腮...... 这本书将帮助你成为一个更好的工程师!
+
+有些测验是深奥的，或者显示了不好的编程实践。你可以通过学习在你的代码中不要做什么而受益。此外，这本书还包含了大量关于Python的提示和技巧，这将使你的编程生活变得更加容易。
+
+Python测验书有100多个测验，每个测验都为你提供了用Python编程的重要学习点，使你成为一个专家。
+
+今天就给你的大脑一个锻炼，现在就拿起Python测验书吧
+
+[The Python Quiz Book.epub](https://url97.ctfile.com/f/18113597-837144990-6d2808?p=2274) (访问密码: 2274)
+
 
 ## 进阶
 
@@ -465,7 +481,25 @@ Django for Professionals将你的网络开发技能提升到一个新的水平�
 - 使用pyupgrade和Dependabot保持软件包的最新状态
 - 使用GitHub的功能培养一个开放的源代码社区
 
-[Effective Python 2nd Edition 9780134853987.epub](https://url97.ctfile.com/f/18113597-836403066-902399?p=2274) (访问密码: 2274)
+[Publishing Python Packages Test, share, and automate your projects.epub](https://url97.ctfile.com/f/18113597-836832370-a1c11d?p=2274) (访问密码: 2274)
 
 
 ![](https://m.media-amazon.com/images/I/41hiQZhl4pL._SX397_BO1,204,203,200_.jpg)
+
+
+### Python for DevOps
+
+在过去的十年中，技术方面发生了很多变化。数据很热，云无处不在，许多组织需要某种形式的自动化。在这些变革中，Python已经成为世界上最流行的语言之一。这个实用的资源告诉你如何使用Python与当今最有用的DevOps工具进行日常的Linux系统管理任务，包括Docker、Kubernetes和Terraform。
+
+学习如何与Linux互动并实现自动化，对数百万专业人士来说是必不可少的。Python使它变得更加容易。通过本书，你将学会如何使用容器开发软件和解决问题，以及如何监控、检测、负载测试和操作你的软件。正在寻找在Python中 "完成任务 "的有效方法？这就是你的指南。
+
+- Python的基础，包括对语言的简要介绍
+- 如何使文本自动化，编写命令行工具，以及使文件系统自动化
+- Linux实用程序、软件包管理、构建系统、监控和仪表以及自动测试
+- 云计算、基础设施即代码、Kubernetes和无服务器
+- 从DevOps角度看机器学习操作和数据工程
+- 构建、部署和运营机器学习项目
+
+[Python for DevOps Learn Ruthlessly Effective Automation .epub](https://url97.ctfile.com/f/18113597-837145173-423a9a?p=2274) (访问密码: 2274)
+
+![](https://m.media-amazon.com/images/I/51IL11PetqL._SX379_BO1,204,203,200_.jpg)
