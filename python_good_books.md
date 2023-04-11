@@ -294,6 +294,47 @@ https://github.com/mattharrison/effective_pandas_book
 
 ![](https://upload-images.jianshu.io/upload_images/12713060-5db71e6ab89ee34f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+### Python for Excel: A Modern Environment for Automation and Data Analysis
+
+虽然Excel在商业世界中仍然无处不在，但最近微软的反馈论坛中充满了将Python作为Excel脚本语言的请求。事实上，这是最主要的功能要求。是什么使这种组合如此引人注目？在这个实践指南中，Felix Zumstein--xlwings的创造者，一个流行的用Python实现Excel自动化的开源包--向经验丰富的Excel用户展示了如何有效地整合这两个世界。
+
+在过去的几年里，Excel增加了不少新的功能，但是它的自动化语言VBA在很久以前就停止了发展。许多Excel高级用户已经采用Python来完成日常的自动化任务。本指南让你入门。
+
+使用Python，无需大量的编程知识
+开始使用现代工具，包括Jupyter笔记本和Visual Studio代码
+使用pandas来获取、清理和分析数据，并取代典型的Excel计算方法
+自动完成繁琐的任务，如合并Excel工作簿和制作Excel报告
+使用xlwings来构建使用Python作为计算引擎的交互式Excel工具
+使用Python代码将Excel连接到数据库和CSV文件，并从互联网上获取数据
+将Python替代VBA、Power Query和Power Pivot
+
+
+![](https://m.media-amazon.com/images/I/51AGl9kDv3L._SX379_BO1,204,203,200_.jpg)
+
+### Excel+Python：飞速搞定数据分析与处理
+
+在如今的时代，大型数据集唾手可得，含有数百万行的数据文件并不罕见。Python是数据分析师和数据科学家的首选语言。通过本书，即使完全不了解Python，Excel用户也能够学会用Python将烦琐的任务自动化，显著地提高办公效率，并利用Python在数据分析和科学计算方面的突出优势，轻松搞定Excel任务。你将学习如何用pandas替代 Excel函数，以及如何用自动化Python库替代VBA宏和用户定义函数等。 
+
+本书既适合Excel用户，也适合Python用户阅读。
+
+本书系《Python for Excel》的中文版
+
+
+![](https://images-cn.ssl-images-amazon.cn/images/I/51ykShup3kL.jpg)
+
+
+### 超简单：用Python让Excel飞起来
+
+本书是一本讲解如何用Python和Excel“强强联手”打造办公利器的案例型教程。
+
+全书共9章。第1～3章主要讲解Python编程环境的搭建、Python的基础语法知识、模块的安装和导入、常用模块的基本用法等内容，为后面的案例应用打下坚实的基础。第4～8章通过大量典型案例讲解如何用Python编程操控Excel，实现数据整理、数据分析、数据可视化等工作的自动化和批量化处理。第9章主要讲解如何在Excel中调用Python代码，进一步拓宽办公自动化的应用范围。
+
+本书理论知识精练，案例典型实用，学习资源齐备，适合有一定Excel基础又想进一步提高工作效率的办公人员，如从事文秘、行政、人事、营销、财务等职业的人士阅读，也可供Python编程爱好者参考。
+
+
+![](https://images-cn.ssl-images-amazon.cn/images/I/51LtHX-bxhL.jpg)
+
+
 ## 人工智能
 
 ### Python深度学习
@@ -503,3 +544,24 @@ Django for Professionals将你的网络开发技能提升到一个新的水平�
 [Python for DevOps Learn Ruthlessly Effective Automation .epub](https://url97.ctfile.com/f/18113597-837145173-423a9a?p=2274) (访问密码: 2274)
 
 ![](https://m.media-amazon.com/images/I/51IL11PetqL._SX379_BO1,204,203,200_.jpg)
+
+
+## 算法与数据结构
+
+### Data Structures with Python
+
+学习如何使用数据结构来编写高性能的Python程序和算法
+
+这本关于数据结构和算法的实用介绍可以帮助每一个想要编写更高效软件的程序员。在Robert Lafore的基于Java的传奇指南的基础上，本书帮助你准确理解数据结构和算法的运作方式。你将学会如何用极为流行的Python语言有效地应用它们，并扩展你的代码以处理当今的大数据挑战。
+
+作者自始至终关注真实世界的例子，用直观、互动的可视化方式传达关键的想法，并将复杂性和数学限制在你需要的范围内以提高性能。他们逐步介绍了数组、排序、堆栈、队列、链表、递归、二叉树、2-3-4树、哈希表、空间数据结构、图形等。他们的代码例子和插图非常清晰，即使你是一个接近初学者，或者你的经验是其他程序性或面向对象的语言，你也能理解它们。
+
+- 培养计算机科学的核心技能，使你不仅仅是 "写代码"。
+- 了解数据结构如何使程序（和程序员）更有效率
+- 了解数据组织和算法如何影响你能用今天和明天的计算资源做多少事情
+- 发展可以在任何语言中使用的数据结构实施技能
+- 为每个编程问题选择最佳的数据结构和算法--并认识到哪些是需要避免的
+
+Python中的数据结构和算法》包含了大量的例子、复习题、个人和团队练习、思想实验和较长的编程项目。它是自学和课堂教学的理想选择，既可以作为主要文本，也可以作为更正式的演讲的补充。
+
+![](https://m.media-amazon.com/images/I/51sXIrI7BdL._SX383_BO1,204,203,200_.jpg)
