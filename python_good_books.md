@@ -1,3 +1,46 @@
+目录
+=================
+
+* [Python精品书籍](#python精品书籍)
+      * [参考资料](#参考资料)
+   * [基础](#基础)
+      * [Python编程：从入门到实践（第2版）](#python编程从入门到实践第2版)
+      * [笨办法学_Python](#笨办法学_python)
+      * [Coding for Kids: Python: Learn to Code with 50 Awesome Games and Activities](#coding-for-kids-python-learn-to-code-with-50-awesome-games-and-activities)
+      * [Python Tricks A Buffet of Awesome Python Features](#python-tricks-a-buffet-of-awesome-python-features)
+      * [Python编程快速上手——让繁琐工作自动化 - 2016.pdf](#python编程快速上手让繁琐工作自动化---2016pdf)
+      * [Python Programming for Beginners 2023](#python-programming-for-beginners-2023)
+      * [Python for Everybody](#python-for-everybody)
+      * [The Python Quiz Book](#the-python-quiz-book)
+   * [进阶](#进阶)
+      * [流畅的python - 2017](#流畅的python---2017)
+      * [Effective Python.编写高质量Python代码的59个有效方法 -2016.pdf](#effective-python编写高质量python代码的59个有效方法--2016pdf)
+      * [Python 3 面向对象编程](#python-3-面向对象编程)
+      * [Python高级编程](#python高级编程)
+   * [数据科学&amp;数据分析](#数据科学数据分析)
+      * [[Data Science from Scratch: First Principles with Python](#data-science-from-scratch-first-principles-with-python)
+      * [Effective Pandas: Patterns for Data Manipulation](#effective-pandas-patterns-for-data-manipulation)
+      * [Python for Excel: A Modern Environment for Automation and Data Analysis](#python-for-excel-a-modern-environment-for-automation-and-data-analysis)
+      * [Excel+Python：飞速搞定数据分析与处理](#excelpython飞速搞定数据分析与处理)
+      * [超简单：用Python让Excel飞起来用Python让Excel飞起来](#超简单用python让excel飞起来用python让excel飞起来)
+   * [人工智能](#人工智能)
+      * [人工通用智能的星星之火GPT-4 的早期实验 202303微软报告](#人工通用智能的星星之火gpt-4-的早期实验-202303微软报告)
+      * [Python深度学习](#python深度学习)
+      * [机器学习实战:基于Scikit-Learn和TensorFlow](#机器学习实战基于scikit-learn和tensorflow)
+      * [Machine Learning For Absolute Beginners 2nd](#machine-learning-for-absolute-beginners-2nd)
+      * [Make Your Own Neural Network](#make-your-own-neural-network)
+   * [爬虫&amp;网络](#爬虫网络)
+      * [Python网络数据采集  初级](#python网络数据采集--初级)
+      * [Mastering Python Networking](#mastering-python-networking)
+   * [Web](#web)
+      * [Welcome to Django：Django for APIs； Django for Beginners；Django for Professionals](#welcome-to-djangodjango-for-apis-django-for-beginnersdjango-for-professionals)
+   * [测试&amp;DevOps](#测试devops)
+      * [Publishing Python Packages Test, share, and automate your projects](#publishing-python-packages-test-share-and-automate-your-projects)
+      * [Python for DevOps](#python-for-devops)
+   * [算法与数据结构](#算法与数据结构)
+      * [Data Structures with Python](#data-structures-with-python)
+
+
 # Python精品书籍
 
 ### 参考资料
@@ -308,6 +351,8 @@ https://github.com/mattharrison/effective_pandas_book
 使用Python代码将Excel连接到数据库和CSV文件，并从互联网上获取数据
 将Python替代VBA、Power Query和Power Pivot
 
+[Python for Excel 2021 A4.7-37.epub](https://url97.ctfile.com/f/18113597-839814978-aad773?p=2274) (访问密码: 2274)
+
 
 ![](https://m.media-amazon.com/images/I/51AGl9kDv3L._SX379_BO1,204,203,200_.jpg)
 
@@ -319,11 +364,13 @@ https://github.com/mattharrison/effective_pandas_book
 
 本书系《Python for Excel》的中文版
 
+[Excel Python：飞速搞定数据分析与处理 (【瑞士】费利克斯·朱姆斯坦).pdf](https://url97.ctfile.com/f/18113597-839815155-691b2e?p=2274) (访问密码: 2274)
+
 
 ![](https://images-cn.ssl-images-amazon.cn/images/I/51ykShup3kL.jpg)
 
 
-### 超简单：用Python让Excel飞起来
+### 超简单：用Python让Excel飞起来用Python让Excel飞起来
 
 本书是一本讲解如何用Python和Excel“强强联手”打造办公利器的案例型教程。
 
@@ -334,8 +381,26 @@ https://github.com/mattharrison/effective_pandas_book
 
 ![](https://images-cn.ssl-images-amazon.cn/images/I/51LtHX-bxhL.jpg)
 
+[超简单：用Python让Excel飞起来.epub](https://url97.ctfile.com/f/18113597-839815185-2cf9fc?p=2274) (访问密码: 2274)
+
 
 ## 人工智能
+
+### 人工通用智能的星星之火GPT-4 的早期实验 202303微软报告
+
+人工智能(AI)研究人员一直在开发和完善大型语言模型(LLM)，这些模型在各种领域和任务中表现出非凡
+的能力，挑战了我们对学习和认知的理解。OpenAI开发的最新模型GPT-4 [Ope23]是使用前所未有的计算和
+数据规模进行训练的。在本文中，我们报告了我们对早期版本的GPT-4的调查，当时它还在OpenAI的积极开
+发中。我们认为(这个早期版本)GPT- 4是新一批LLM的一部分(例如ChatGPT和谷歌的PaLM)，它们比之前的AI
+模型表现出更多的通用智能。我们讨论了这些模型不断提升的能力和影响。我们证明，除了对语言的掌握，
+GPT-4可以解决跨越数学、编码、视觉、医学、法律、心理学等新颖和困难的任务，而不需要任何特别的提
+示。此外，在所有这些任务中，GPT-4的表现惊人地接近人类的表现，而且大大超过之前的模型，如
+ChatGPT。鉴于GPT-4能力的广度和深度，我们相信它可以被合理地视为人工通用智能(AGI)系统的早期版本
+(但仍不完整)。在我们对GPT-4的探索中，我们特别强调发现其局限性，并讨论了向更深入、更全面的AGI版
+本推进所面临的挑战，包括可能需要追求超越下一个单词预测的新范式。最后，我们对最近技术飞跃的社会
+影响和未来研究方向进行了反思
+
+[人工通用智能的 星星之火GPT-4 的早期实验 202303微软报告.pdf](https://url97.ctfile.com/f/18113597-839813199-6221eb?p=2274) (访问密码: 2274)
 
 ### Python深度学习
 
@@ -382,7 +447,7 @@ https://github.com/mattharrison/effective_pandas_book
  * [源码地址](https://github.com/ageron/handson-ml) github星级 10000左右
  * 页数： 564
 
-### [Machine Learning For Absolute Beginners, 2nd Edition-Oliver Theobald(2017).pdf](https://u18113597.pipipan.com/fs/18113597-307931760)
+### Machine Learning For Absolute Beginners 2nd 
 
 ![](https://upload-images.jianshu.io/upload_images/12713060-4bdd8d29122c6c17.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -563,5 +628,8 @@ Django for Professionals将你的网络开发技能提升到一个新的水平�
 - 为每个编程问题选择最佳的数据结构和算法--并认识到哪些是需要避免的
 
 Python中的数据结构和算法》包含了大量的例子、复习题、个人和团队练习、思想实验和较长的编程项目。它是自学和课堂教学的理想选择，既可以作为主要文本，也可以作为更正式的演讲的补充。
+
+[Data Structures with Python 9789355513311.epub](https://url97.ctfile.com/f/18113597-839832489-c9b3cd?p=2274)  (访问密码: 2274)
+
 
 ![](https://m.media-amazon.com/images/I/51sXIrI7BdL._SX383_BO1,204,203,200_.jpg)
