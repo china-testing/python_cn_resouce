@@ -2,7 +2,7 @@
 =================
 
 * [Python精品书籍](#python精品书籍)
-      * [参考资料](#参考资料)
+   * [参考资料](#参考资料)
    * [基础](#基础)
       * [Python编程：从入门到实践（第2版）](#python编程从入门到实践第2版)
       * [笨办法学_Python](#笨办法学_python)
@@ -25,6 +25,7 @@
       * [超简单：用Python让Excel飞起来用Python让Excel飞起来](#超简单用python让excel飞起来用python让excel飞起来)
    * [人工智能](#人工智能)
       * [人工通用智能的星星之火GPT-4 的早期实验 202303微软报告](#人工通用智能的星星之火gpt-4-的早期实验-202303微软报告)
+      * [GPT-3: Building Innovative NLP Products Using Large Language Models](#gpt-3-building-innovative-nlp-products-using-large-language-models)
       * [Python深度学习](#python深度学习)
       * [机器学习实战:基于Scikit-Learn和TensorFlow](#机器学习实战基于scikit-learn和tensorflow)
       * [Machine Learning For Absolute Beginners 2nd](#machine-learning-for-absolute-beginners-2nd)
@@ -41,12 +42,22 @@
       * [Data Structures with Python](#data-structures-with-python)
 
 
+
 # Python精品书籍
 
-### 参考资料
+## 参考资料
 
 - 书籍来源： https://github.com/china-testing/python_cn_resouce/blob/main/books.md
 - 下载来源： https://github.com/china-testing/python_cn_resouce/blob/main/python_good_books.md 
+
+专业长期收集python书籍。
+
+赞善或进入python技术群：钉钉或微信 pythontesting、 支付宝xurongzhong#gmail.com, 请将#替换为@。
+
+python测试开发钉钉群：21745728，目前800多人，另有几千人的python测试开发微信群，可联系 钉钉或微信号 pythontesting 加群（备注：python）！
+
+[python八字排盘](https://github.com/china-testing/bazi)  目前市面上功能最强大的八字排盘，科学的尽头是道教，玄学。
+
 
 ## 基础
 
@@ -294,7 +305,7 @@ Fluent Python, 2nd Edition.epub
 
 ## 数据科学&数据分析
 
-### [Data Science from Scratch: First Principles with Python
+### Data Science from Scratch: First Principles with Python
 
 要真正学习数据科学，你不仅要掌握工具--数据科学库、框架、模块和工具包，还要理解它们背后的思想和原理。这本《从零开始的数据科学》第二版针对Python 3.6进行了更新，通过从零开始实施这些工具和算法，向你展示了这些工具和算法是如何工作的。
 
@@ -401,6 +412,28 @@ ChatGPT。鉴于GPT-4能力的广度和深度，我们相信它可以被合理�
 影响和未来研究方向进行了反思
 
 [人工通用智能的 星星之火GPT-4 的早期实验 202303微软报告.pdf](https://url97.ctfile.com/f/18113597-839813199-6221eb?p=2274) (访问密码: 2274)
+
+### GPT-3: Building Innovative NLP Products Using Large Language Models
+
+GPT-3，即Generative Pre-trained Transformer 3，是一个由OpenAI开发的基于变换器的大型语言模型。它包含了惊人的1750亿个参数。任何人都可以通过OpenAI的API访问这个大型语言模型，这是一个简单易用的 "文本输入，文本输出 "用户界面，没有任何技术前提。这是历史上第一次，像GPT-3这样大的人工智能模型被远程托管，并通过简单的API调用提供给公众。这种新的访问模式被称为模型即服务。
+
+随着GPT-3的引入，构建人工智能应用比以往任何时候都要容易。本书将向你展示开始使用OpenAI API是多么容易。此外，我们还将向你介绍为你的使用案例利用这一工具的创新方法。我们将研究建立在GPT-3之上的成功的初创企业和在其产品领域利用它的企业，并研究其发展中的问题和潜在的未来趋势。
+
+
+
+本书是为所有背景的人准备的，而不仅仅是技术专家。如果你是，它应该对你有用：
+
+- 希望获得人工智能技能的数据专业人士
+
+- 想在人工智能领域建立下一个大事件的企业家
+
+- 希望提升自己的人工智能知识并利用它来推动关键决策的企业领导人
+
+- 想利用GPT-3的语言功能进行创作的作家、播音员、社交媒体经理或其他基于语言的创作者。
+
+- 任何有基于人工智能的想法的人，而这种想法在技术上似乎是不可能的，或者开发成本太高。
+
+[GPT-3 Building Innovative NLP Products Using Large Language Model.epub](https://url97.ctfile.com/f/18113597-840311508-247fcf?p=2274) (访问密码: 2274)
 
 ### Python深度学习
 
