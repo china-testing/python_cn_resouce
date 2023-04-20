@@ -73,11 +73,11 @@ https://github.com/ehmatthes/pcc_2e/
 
 - 英文版
 
-Python Crash Course 3rd Edition.pdf: [https://url97.ctfile.com/f/18113597-812539319-0fab3e?p=2274](https://url97.ctfile.com/f/18113597-812539319-0fab3e?p=2274) 访问密码: 2274
+Python Crash Course 3rd Edition.pdf: [https://url97.ctfile.com/f/18113597-812539319-0fab3e](https://url97.ctfile.com/f/18113597-812539319-0fab3e) 获取访问密码 公众号：python测试开发1024 发送 密码
 
 - 中文版
 
-[Python编程：从入门到实践 第2版.epub](https://url97.ctfile.com/f/18113597-836384027-d99400?p=2274) 访问密码: 2274
+[Python编程：从入门到实践 第2版.epub](https://url97.ctfile.com/f/18113597-836384027-d99400) 获取访问密码 公众号：python测试开发1024 发送 密码
 
 ![](https://upload-images.jianshu.io/upload_images/12713060-fb22d8e555ca5057.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -92,12 +92,12 @@ Python Crash Course 3rd Edition.pdf: [https://url97.ctfile.com/f/18113597-81253
 
 - 中文版
 
- [笨办法学Python第四版.epub](https://url97.ctfile.com/f/18113597-836386642-bbe214?p=2274) 访问密码: 2274
+ [笨办法学Python第四版.epub](https://url97.ctfile.com/f/18113597-836386642-bbe214) 获取访问密码 公众号：python测试开发1024 发送 密码
 
 
 - 英文版
 
-[Learn More Python 3 the Hard Way The Next Step for New Python Programmers  9780134692883.pdf](https://url97.ctfile.com/f/18113597-836387689-d6e414?p=2274) 访问密码: 2274
+[Learn More Python 3 the Hard Way The Next Step for New Python Programmers  9780134692883.pdf](https://url97.ctfile.com/f/18113597-836387689-d6e414) 获取访问密码 公众号：python测试开发1024 发送 密码
 
 ![](https://upload-images.jianshu.io/upload_images/12713060-258aa16df8b00003.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -122,7 +122,7 @@ Python Crash Course 3rd Edition.pdf: [https://url97.ctfile.com/f/18113597-81253
 
 - 英文版
 
- [Coding for Kids Python Learn to Code with 50 Awesome Games and Activities.epub](https://url97.ctfile.com/f/18113597-836384493-e6da67?p=2274) 访问密码: 2274
+ [Coding for Kids Python Learn to Code with 50 Awesome Games and Activities.epub](https://url97.ctfile.com/f/18113597-836384493-e6da67) 获取访问密码 公众号：python测试开发1024 发送 密码
 
 ### Python Tricks A Buffet of Awesome Python Features
 
@@ -136,7 +136,7 @@ Python Crash Course 3rd Edition.pdf: [https://url97.ctfile.com/f/18113597-81253
 
 - 英文版
 
- [Python Tricks A Buffet of Awesome Python Features.epub](https://url97.ctfile.com/f/18113597-836384477-9d65bb?p=2274) 访问密码: 2274
+ [Python Tricks A Buffet of Awesome Python Features.epub](https://url97.ctfile.com/f/18113597-836384477-9d65bb) 获取访问密码 公众号：python测试开发1024 发送 密码
 
 ![](https://upload-images.jianshu.io/upload_images/12713060-b2f6159cfe7f9f50.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -149,11 +149,11 @@ Python Crash Course 3rd Edition.pdf: [https://url97.ctfile.com/f/18113597-81253
 
 - 中文版
 
- [python编程快速上手让繁琐工作自动化1826693.epub](https://url97.ctfile.com/f/18113597-836385305-bc9a07?p=2274) 访问密码: 2274
+ [python编程快速上手让繁琐工作自动化1826693.epub](https://url97.ctfile.com/f/18113597-836385305-bc9a07) 获取访问密码 公众号：python测试开发1024 发送 密码
 
 - 英文版
 
-[Automate the Boring Stuff with Python Practical Programming for Total Beginners 2nd.epub](https://url97.ctfile.com/f/18113597-836384473-fb09ca?p=2274) 访问密码: 2274
+[Automate the Boring Stuff with Python Practical Programming for Total Beginners 2nd.epub](https://url97.ctfile.com/f/18113597-836384473-fb09ca) 获取访问密码 公众号：python测试开发1024 发送 密码
 
 https://github.com/IFinners/automate-the-boring-stuff-projects 亚马逊4.7星 1800+评
 
@@ -182,7 +182,7 @@ https://github.com/IFinners/automate-the-boring-stuff-projects 亚马逊4.7星 1
 - 附带：Python面试问题和答案，用于破解面试（扫描书中的QR码）。
 - ...还有很多很多·
 
-[Python Programming for Beginners 9798354101856.epub](https://url97.ctfile.com/f/18113597-836823807-0fea2a?p=2274) (访问密码: 2274)
+[Python Programming for Beginners 9798354101856.epub](https://url97.ctfile.com/f/18113597-836823807-0fea2a) (获取访问密码 公众号：python测试开发1024 发送 密码)
 
 ![](https://m.media-amazon.com/images/P/B0BTRRLCYZ.01._SCLZZZZZZZ_SX500_.jpg)
 
@@ -196,7 +196,7 @@ Python for Everybody旨在通过探索数据的视角向学生介绍编程和软
 
 - 英文版本下载
 
-[Python for Everybody -2016 A4.6-1721--.epub](https://url97.ctfile.com/f/18113597-836823336-2ecea9?p=2274) (访问密码: 2274)
+[Python for Everybody -2016 A4.6-1721--.epub](https://url97.ctfile.com/f/18113597-836823336-2ecea9) (获取访问密码 公众号：python测试开发1024 发送 密码)
 
 
 ### The Python Quiz Book
@@ -213,7 +213,7 @@ Python测验书有100多个测验，每个测验都为你提供了用Python编�
 
 今天就给你的大脑一个锻炼，现在就拿起Python测验书吧
 
-[The Python Quiz Book.epub](https://url97.ctfile.com/f/18113597-837144990-6d2808?p=2274) (访问密码: 2274)
+[The Python Quiz Book.epub](https://url97.ctfile.com/f/18113597-837144990-6d2808) (获取访问密码 公众号：python测试开发1024 发送 密码)
 
 
 ## 进阶
@@ -232,13 +232,13 @@ https://github.com/fluentpython/example-code 2000+ 星 强烈推荐
 
 - 中文版
 
- [流畅的python.epub](https://url97.ctfile.com/f/18113597-836388230-82edd5?p=2274) 访问密码: 2274
+ [流畅的python.epub](https://url97.ctfile.com/f/18113597-836388230-82edd5) 获取访问密码 公众号：python测试开发1024 发送 密码
 
 - 英文版本
 
 Fluent Python, 2nd Edition.epub
 
-[https://url97.ctfile.com/f/18113597-812539535-a446e9?p=2274](https://url97.ctfile.com/f/18113597-812539535-a446e9?p=2274) 访问密码: 2274
+[https://url97.ctfile.com/f/18113597-812539535-a446e9](https://url97.ctfile.com/f/18113597-812539535-a446e9) 获取访问密码 公众号：python测试开发1024 发送 密码
 
 ![](https://upload-images.jianshu.io/upload_images/12713060-516b74967306bfd4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -257,11 +257,11 @@ Fluent Python, 2nd Edition.epub
 
 - 中文版
 
- [Effective Python.编写高质量Python代码的59个有效方法.Brett Slatkin.pdf](https://url97.ctfile.com/f/18113597-836394531-b1dcfc?p=2274) 访问密码: 2274
+ [Effective Python.编写高质量Python代码的59个有效方法.Brett Slatkin.pdf](https://url97.ctfile.com/f/18113597-836394531-b1dcfc) 获取访问密码 公众号：python测试开发1024 发送 密码
 
 - 英文版本
 
-[Effective Python 2nd Edition 9780134853987.epub](https://url97.ctfile.com/f/18113597-836403066-902399?p=2274) 访问密码: 2274
+[Effective Python 2nd Edition 9780134853987.epub](https://url97.ctfile.com/f/18113597-836403066-902399) 获取访问密码 公众号：python测试开发1024 发送 密码
 
 
 ### Python 3 面向对象编程
@@ -280,14 +280,14 @@ Fluent Python, 2nd Edition.epub
 
 - 英文版下载
 
-[Python 3 Object-Oriented Programming 3rd Edition - 2018.Pdf](https://url97.ctfile.com/f/18113597-335796100-667305?p=2274)
+[Python 3 Object-Oriented Programming 3rd Edition - 2018.Pdf](https://url97.ctfile.com/f/18113597-335796100-667305)
 
-[Python Object-Oriented Programming 4th.epub](https://url97.ctfile.com/f/18113597-836822808-9458d8?p=2274) (访问密码: 2274)
+[Python Object-Oriented Programming 4th.epub](https://url97.ctfile.com/f/18113597-836822808-9458d8) (获取访问密码 公众号：python测试开发1024 发送 密码)
 
 
 - 中文版下载 
 
-[Python_3面向对象编程.pdf](https://url97.ctfile.com/f/18113597-335798676-92a103?p=2274) (访问密码: 2274)
+[Python_3面向对象编程.pdf](https://url97.ctfile.com/f/18113597-335798676-92a103) (获取访问密码 公众号：python测试开发1024 发送 密码)
 
 ### Python高级编程
 
@@ -299,9 +299,9 @@ Fluent Python, 2nd Edition.epub
 
 本书适合想要进一步提高自身Python编程技能的读者阅读，也适合对Python编程感兴趣的读者参考学习。全书结合典型且实用的开发案例，可以帮助读者创建高性能的、可靠且可维护的Python应用。
 
-[Python高级编程.epub](https://url97.ctfile.com/f/18113597-836818052-6d96b0?p=2274) (访问密码: 2274)
+[Python高级编程.epub](https://url97.ctfile.com/f/18113597-836818052-6d96b0) (获取访问密码 公众号：python测试开发1024 发送 密码)
 
-[Expert Python Programming Master Python by learning the best coding practices and advanced programming concepts, 4th Edition .epub](https://url97.ctfile.com/f/18113597-836821972-e8c479?p=2274) (访问密码: 2274)
+[Expert Python Programming Master Python by learning the best coding practices and advanced programming concepts, 4th Edition .epub](https://url97.ctfile.com/f/18113597-836821972-e8c479) (获取访问密码 公众号：python测试开发1024 发送 密码)
 
 ## 数据科学&数据分析
 
@@ -318,7 +318,7 @@ Fluent Python, 2nd Edition.epub
 - 实施模型，如k-nearest neighbors、Naïve Bayes、线性和逻辑回归、决策树、神经网络和聚类。
 - 探索推荐系统、自然语言处理、网络分析、MapReduce和数据库。
 
-[Data Science from Scratch First Principles with Python, Second Edition.epub](https://url97.ctfile.com/f/18113597-836384164-2b21a0?p=2274)
+[Data Science from Scratch First Principles with Python, Second Edition.epub](https://url97.ctfile.com/f/18113597-836384164-2b21a0)
 
 ![](https://upload-images.jianshu.io/upload_images/12713060-193b89d2557bd790.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -342,7 +342,7 @@ https://github.com/joelgrus/data-science-from-scratch 7600+ 星
 - 调试代码
 - 以及更多...
 
-[Effective Pandas Patterns for Data Manipulation 9798772692936.pdf](https://url97.ctfile.com/f/18113597-836816207-ce507b?p=2274)
+[Effective Pandas Patterns for Data Manipulation 9798772692936.pdf](https://url97.ctfile.com/f/18113597-836816207-ce507b)
 
 https://github.com/mattharrison/effective_pandas_book
 
@@ -362,7 +362,7 @@ https://github.com/mattharrison/effective_pandas_book
 使用Python代码将Excel连接到数据库和CSV文件，并从互联网上获取数据
 将Python替代VBA、Power Query和Power Pivot
 
-[Python for Excel 2021 A4.7-37.epub](https://url97.ctfile.com/f/18113597-839814978-aad773?p=2274) (访问密码: 2274)
+[Python for Excel 2021 A4.7-37.epub](https://url97.ctfile.com/f/18113597-839814978-aad773) (获取访问密码 公众号：python测试开发1024 发送 密码)
 
 
 ![](https://m.media-amazon.com/images/I/51AGl9kDv3L._SX379_BO1,204,203,200_.jpg)
@@ -375,7 +375,7 @@ https://github.com/mattharrison/effective_pandas_book
 
 本书系《Python for Excel》的中文版
 
-[Excel Python：飞速搞定数据分析与处理 (【瑞士】费利克斯·朱姆斯坦).pdf](https://url97.ctfile.com/f/18113597-839815155-691b2e?p=2274) (访问密码: 2274)
+[Excel Python：飞速搞定数据分析与处理 (【瑞士】费利克斯·朱姆斯坦).pdf](https://url97.ctfile.com/f/18113597-839815155-691b2e) (获取访问密码 公众号：python测试开发1024 发送 密码)
 
 
 ![](https://images-cn.ssl-images-amazon.cn/images/I/51ykShup3kL.jpg)
@@ -392,7 +392,7 @@ https://github.com/mattharrison/effective_pandas_book
 
 ![](https://images-cn.ssl-images-amazon.cn/images/I/51LtHX-bxhL.jpg)
 
-[超简单：用Python让Excel飞起来.epub](https://url97.ctfile.com/f/18113597-839815185-2cf9fc?p=2274) (访问密码: 2274)
+[超简单：用Python让Excel飞起来.epub](https://url97.ctfile.com/f/18113597-839815185-2cf9fc) (获取访问密码 公众号：python测试开发1024 发送 密码)
 
 
 ## 人工智能
@@ -411,7 +411,7 @@ ChatGPT。鉴于GPT-4能力的广度和深度，我们相信它可以被合理�
 本推进所面临的挑战，包括可能需要追求超越下一个单词预测的新范式。最后，我们对最近技术飞跃的社会
 影响和未来研究方向进行了反思
 
-[人工通用智能的 星星之火GPT-4 的早期实验 202303微软报告.pdf](https://url97.ctfile.com/f/18113597-839813199-6221eb?p=2274) (访问密码: 2274)
+[人工通用智能的 星星之火GPT-4 的早期实验 202303微软报告.pdf](https://url97.ctfile.com/f/18113597-839813199-6221eb) (获取访问密码 公众号：python测试开发1024 发送 密码)
 
 ### GPT-3: Building Innovative NLP Products Using Large Language Models
 
@@ -433,7 +433,7 @@ GPT-3，即Generative Pre-trained Transformer 3，是一个由OpenAI开发的基
 
 - 任何有基于人工智能的想法的人，而这种想法在技术上似乎是不可能的，或者开发成本太高。
 
-[GPT-3 Building Innovative NLP Products Using Large Language Model.epub](https://url97.ctfile.com/f/18113597-840311508-247fcf?p=2274) (访问密码: 2274)
+[GPT-3 Building Innovative NLP Products Using Large Language Model.epub](https://url97.ctfile.com/f/18113597-840311508-247fcf) (获取访问密码 公众号：python测试开发1024 发送 密码)
 
 ### Python深度学习
 
@@ -445,11 +445,11 @@ GPT-3，即Generative Pre-trained Transformer 3，是一个由OpenAI开发的基
 
 本书由流行深度学习框架Keras之父弗朗索瓦·肖莱执笔，通过直观的解释和丰富的示例帮助你构建深度学习知识体系。作者避免使用数学符号，转而采用Python代码来解释深度学习的核心思想。全书共计14章，既涵盖了深度学习的基本原理，又体现了这一迅猛发展的领域在近几年里取得的重要进展，包括Transformer架构的原理和示例。读完本书后，你将能够使用Keras解决从计算机视觉到自然语言处理等现实世界的诸多问题，包括图像分类、图像分割、时间序列预测、文本分类、机器翻译、文本生成等。
 
-[Python深度学习.pdf](https://url97.ctfile.com/f/18113597-812539622-8dd0d1?p=2274)
+[Python深度学习.pdf](https://url97.ctfile.com/f/18113597-812539622-8dd0d1)
 
-[Deep Learning with Python  François Chollet - 2018.pdf]( https://url97.ctfile.com/f/18113597-308038660-0ae5b0?p=2274)
+[Deep Learning with Python  François Chollet - 2018.pdf]( https://url97.ctfile.com/f/18113597-308038660-0ae5b0)
 
-[Deep Learning with Python, Second Edition -2021.epub](https://url97.ctfile.com/f/18113597-812539564-1cf1db?p=2274)
+[Deep Learning with Python, Second Edition -2021.epub](https://url97.ctfile.com/f/18113597-812539564-1cf1db)
 
 
 
@@ -465,11 +465,11 @@ GPT-3，即Generative Pre-trained Transformer 3，是一个由OpenAI开发的基
 
 ### 机器学习实战:基于Scikit-Learn和TensorFlow
 
-[Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow Concepts, Tools, and Techniques to Build Intelligent 2nd - 2019.epub](https://url97.ctfile.com/f/18113597-836384285-dfe5d1?p=2274) (访问密码: 2274)
+[Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow Concepts, Tools, and Techniques to Build Intelligent 2nd - 2019.epub](https://url97.ctfile.com/f/18113597-836384285-dfe5d1) (获取访问密码 公众号：python测试开发1024 发送 密码)
 
 ![](https://upload-images.jianshu.io/upload_images/12713060-0f86b03743bfd965.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-[机器学习实战：基于Scikit-Learn、Keras和TensorFlow：原书第2版.pdf](https://url97.ctfile.com/f/18113597-836384414-3fa65e?p=2274) (访问密码: 2274)
+[机器学习实战：基于Scikit-Learn、Keras和TensorFlow：原书第2版.pdf](https://url97.ctfile.com/f/18113597-836384414-3fa65e) (获取访问密码 公众号：python测试开发1024 发送 密码)
 
 
 ![](https://upload-images.jianshu.io/upload_images/12713060-ab94957cab299acc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
@@ -490,7 +490,7 @@ Machine Learning for Absolute Beginners Second Edition为完全初学者编写�
  * [源码地址：后期找到补上](https://github.com/china-testing/python-api-tesing) github星级 
  * 页数： 128
  
- [Machine Learning for Absolute Beginners A Plain English Introduction 3rd Edition]( https://url97.ctfile.com/f/18113597-836384450-6a619e?p=2274) (访问密码: 2274)
+ [Machine Learning for Absolute Beginners A Plain English Introduction 3rd Edition]( https://url97.ctfile.com/f/18113597-836384450-6a619e) (获取访问密码 公众号：python测试开发1024 发送 密码)
 
 ### Make Your Own Neural Network
 
@@ -500,7 +500,7 @@ Machine Learning for Absolute Beginners Second Edition为完全初学者编写�
 
 本书首先从简单的思路着手，详细介绍了理解神经网络如何工作所必须的基础知识。第一部分介绍基本的思路，包括神经网络底层的数学知识，第2部分是实践，介绍了学习Python编程的流行和轻松的方法，从而逐渐使用该语言构建神经网络，以能够识别人类手写的字母，特别是让其像专家所开发的网络那样地工作。第3部分是扩展，介绍如何将神经网络的性能提升到工业应用的层级，甚至让其在Raspberry Pi上工作。
 
-[Make Your Own Neural Network 9781530826605.azw3](https://url97.ctfile.com/f/18113597-836813595-c2170f?p=2274) (访问密码: 2274)
+[Make Your Own Neural Network 9781530826605.azw3](https://url97.ctfile.com/f/18113597-836813595-c2170f) (获取访问密码 公众号：python测试开发1024 发送 密码)
 
  * [源码](https://github.com/makeyourownneuralnetwork/makeyourownneuralnetwork) github星级  2100+
  * 页数：222
@@ -520,9 +520,9 @@ Web Scraping with Python 2nd - 2018.pdf
 
 https://github.com/REMitchell/python-scraping 2000左右星
 
-[Python网络数据采集.mobi](https://url97.ctfile.com/f/18113597-836812257-3b5340?p=2274) (访问密码: 2274)
+[Python网络数据采集.mobi](https://url97.ctfile.com/f/18113597-836812257-3b5340) (获取访问密码 公众号：python测试开发1024 发送 密码)
 
-[Web Scraping with Python  2nd - 2018.pdf](https://url97.ctfile.com/f/18113597-308347783-f7b8a9?p=2274)
+[Web Scraping with Python  2nd - 2018.pdf](https://url97.ctfile.com/f/18113597-308347783-f7b8a9)
 
 ### Mastering Python Networking
 
@@ -542,7 +542,7 @@ https://github.com/REMitchell/python-scraping 2000左右星
 - 探索测试驱动开发的概念，并使用PyTest来驱动代码测试覆盖率
 - 了解GitLab如何与网络中的DevOps实践一起使用
 
-[Mastering Python Networking.epub](https://url97.ctfile.com/f/18113597-836811905-3be0d0?p=2274) (访问密码: 2274)
+[Mastering Python Networking.epub](https://url97.ctfile.com/f/18113597-836811905-3be0d0) (获取访问密码 公众号：python测试开发1024 发送 密码)
 
 ![](https://m.media-amazon.com/images/I/51bYi5SkQnL._SX403_BO1,204,203,200_.jpg)
 
@@ -597,11 +597,11 @@ Django for Professionals将你的网络开发技能提升到一个新的水平�
 
 - 英文版下载
 
-访问密码: 2274, 无需注册，点击普通下载即可。如遇失效可加钉或V信 pythontesting获取。
+获取访问密码 公众号：python测试开发1024 发送 密码, 无需注册，点击普通下载即可。如遇失效可加钉或V信 pythontesting获取。
 
-* [Django for Professionals Production websites with Python & Django 9781735467238.epub](https://url97.ctfile.com/f/18113597-809547567-83d5c1?p=2274) 
-* [Django for Beginners Build websites with Python & Django 9781735467207.epub](https://url97.ctfile.com/f/18113597-809547545-b33b76?p=2274)
-* [Django for APIs Build web APIs with Python & Django 9781093633948.epub](https://url97.ctfile.com/f/18113597-809547517-697dfb?p=2274)
+* [Django for Professionals Production websites with Python & Django 9781735467238.epub](https://url97.ctfile.com/f/18113597-809547567-83d5c1) 
+* [Django for Beginners Build websites with Python & Django 9781735467207.epub](https://url97.ctfile.com/f/18113597-809547545-b33b76)
+* [Django for APIs Build web APIs with Python & Django 9781093633948.epub](https://url97.ctfile.com/f/18113597-809547517-697dfb)
 
 ## 测试&DevOps
 
@@ -620,7 +620,7 @@ Django for Professionals将你的网络开发技能提升到一个新的水平�
 - 使用pyupgrade和Dependabot保持软件包的最新状态
 - 使用GitHub的功能培养一个开放的源代码社区
 
-[Publishing Python Packages Test, share, and automate your projects.epub](https://url97.ctfile.com/f/18113597-836832370-a1c11d?p=2274) (访问密码: 2274)
+[Publishing Python Packages Test, share, and automate your projects.epub](https://url97.ctfile.com/f/18113597-836832370-a1c11d) (获取访问密码 公众号：python测试开发1024 发送 密码)
 
 
 ![](https://m.media-amazon.com/images/I/41hiQZhl4pL._SX397_BO1,204,203,200_.jpg)
@@ -639,7 +639,7 @@ Django for Professionals将你的网络开发技能提升到一个新的水平�
 - 从DevOps角度看机器学习操作和数据工程
 - 构建、部署和运营机器学习项目
 
-[Python for DevOps Learn Ruthlessly Effective Automation .epub](https://url97.ctfile.com/f/18113597-837145173-423a9a?p=2274) (访问密码: 2274)
+[Python for DevOps Learn Ruthlessly Effective Automation .epub](https://url97.ctfile.com/f/18113597-837145173-423a9a) (获取访问密码 公众号：python测试开发1024 发送 密码)
 
 ![](https://m.media-amazon.com/images/I/51IL11PetqL._SX379_BO1,204,203,200_.jpg)
 
@@ -662,7 +662,7 @@ Django for Professionals将你的网络开发技能提升到一个新的水平�
 
 Python中的数据结构和算法》包含了大量的例子、复习题、个人和团队练习、思想实验和较长的编程项目。它是自学和课堂教学的理想选择，既可以作为主要文本，也可以作为更正式的演讲的补充。
 
-[Data Structures with Python 9789355513311.epub](https://url97.ctfile.com/f/18113597-839832489-c9b3cd?p=2274)  (访问密码: 2274)
+[Data Structures with Python 9789355513311.epub](https://url97.ctfile.com/f/18113597-839832489-c9b3cd)  (获取访问密码 公众号：python测试开发1024 发送 密码)
 
 
 ![](https://m.media-amazon.com/images/I/51sXIrI7BdL._SX383_BO1,204,203,200_.jpg)
