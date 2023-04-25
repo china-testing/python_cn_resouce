@@ -2,19 +2,16 @@
  * [电影 视频 下载](https://github.com/china-testing/python-api-tesing/blob/master/videos.md)
  * [IT类书籍 下载](https://github.com/china-testing/python-api-tesing/blob/master/books.md)
 
-技术支持讨论qq群：630011153 144081101 6089740
-
 
  | 类别 | 名称 | 名称 | 名称 | 名称 | 名称 | 名称 
 | --- | --- | --- | --- | --- | --- | --- |
 **常用** | [oscobo](https://www.oscobo.com/) | [谷歌](https://www.google.com.hk/?gws_rd=ssl) |[谷歌翻译](http://translate.google.cn/?hl=zh-CN) |[360百科](https://baike.so.com/doc/1790119-1892991.html)  | [维基中文](https://zh.wikipedia.org/wiki/Python) | [deepl](https://www.deepl.com/translator)
 |-| [必应](https://cn.bing.com/search?q=site%3Achina-testing.github.io&qs=n&form=QBLH&sp=-1&pq=site%3Achina-testing.github.io&sc=0-26&sk=&cvid=CF01D3E7586D46EDA7A260FAD61344CD) | [代码搜索](https://searchcode.com/)| [有道词典](http://dict.youdao.com/) | [百度百科](https://baike.baidu.com/item/Python/407313) | [overflow](http://stackoverflow.com/) | 
 |- | [百度](https://www.baidu.com/) |[so](https://www.so.com/s?ie=utf-8&fr=none&src=360sou_newhome&q=site%3Achina-testing.github.io)|[bing翻译](https://cn.bing.com/Translator) |[知乎](https://www.zhihu.com/) | [维基英文](https://en.wikipedia.org/wiki/Python_(programming_language)) | [空气污染](http://aqicn.org/map/hk/#@g/24.0686/113.7764/7z) |
-|**技术**| [新浪科技](https://tech.sina.com.cn/) | [guru99](https://www.guru99.com/) |[vogella](https://www.vogella.com/tutorials/) |
+|**技术**| [新浪科技](https://tech.sina.com.cn/) | [guru99](https://www.guru99.com/) |[vogella](https://www.vogella.com/tutorials/) | [annas-archive](https://zh.annas-archive.org/) | [z-library](https://singlelogin.me/)
 |**Python** | [pypi](https://pypi.python.org/pypi) | [pymotw](https://pymotw.com) | [effbot](http://effbot.org/librarybook/) |[python库](https://github.com/china-testing/python-api-tesing)   | [awesome-python](https://github.com/vinta/awesome-python)  | [jobbole](http://python.jobbole.com/) |
 | Python | [memect](http://memect.com/) | [wiki](https://wiki.python.org/moin/Documentation) | [pythonjobs](http://pythonjobs.github.io/) | [标准库](https://docs.python.org/3/library/) | [python中文](https://docs.python.org/zh-cn/3/) | [自动化库汇总](https://github.com/atinfo/awesome-test-automation/blob/master/python-test-automation.md#rest-api-testing) |
 | |[realpython](https://realpython.com/) |[pbpython_pd](https://pbpython.com/) |[quizzes](https://realpython.com/quizzes/) |[marsja](https://www.marsja.se/category/programming/python/)
-| 本人博客 | [python中文库](https://bitbucket.org/xurongzhong/python-chinese-library/wiki/browse/) | [工作日志](https://bitbucket.org/xurongzhong/work_log/wiki/browse/) | [生活](https://bitbucket.org/xurongzhong/life/wiki/browse/) | [健康](https://bitbucket.org/xurongzhong/health/wiki/browse/) | [python小脚本](https://bitbucket.org/xurongzhong/small_python_daily_tools/wiki/browse/) | [软件测试](https://bitbucket.org/xurongzhong/testing/wiki/browse/) |
 | 每日新闻 | [美国之音](http://www.voachinese.com/) | [联合早报](http://www.zaobao.com/) | [天气预报](http://www.weather.com.cn/weather/101280601.shtml) | [ft中文](http://www.ftchinese.com/) | [华尔街](http://cn.wsj.com/gb/index.asp) | [路透社](http://cn.reuters.com) 
 | pandas | [listendata](https://www.listendata.com/search/label/Python) |[mc.ai](https://mc.ai/) |[cnet](http://www.sznews.com/news/node_18235.htm)　 | 
 | 排名 | [编程流行度](http://pypl.github.io/PYPL.html) | [TIOBE](http://www.tiobe.com/tiobe-index/) | [数据库排名](http://db-engines.com/en/ranking) | [IEEE](http://spectrum.ieee.org/computing/software/the-2016-top-programming-languages) | [codeevalblog](http://blog.codeeval.com/codeevalblog) | [redmonk](http://redmonk.com/sogrady/category/programming-languages/) |   
