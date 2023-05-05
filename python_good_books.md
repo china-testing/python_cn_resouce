@@ -18,7 +18,7 @@
       * [Python 3 面向对象编程](#python-3-面向对象编程)
       * [Python高级编程](#python高级编程)
    * [数据科学&amp;数据分析](#数据科学数据分析)
-      * [[Data Science from Scratch: First Principles with Python](#data-science-from-scratch-first-principles-with-python)
+      * [Data Science from Scratch: First Principles with Python](#data-science-from-scratch-first-principles-with-python)
       * [Effective Pandas: Patterns for Data Manipulation](#effective-pandas-patterns-for-data-manipulation)
       * [Python for Excel: A Modern Environment for Automation and Data Analysis](#python-for-excel-a-modern-environment-for-automation-and-data-analysis)
       * [Excel+Python：飞速搞定数据分析与处理](#excelpython飞速搞定数据分析与处理)
@@ -26,6 +26,7 @@
    * [人工智能](#人工智能)
       * [人工通用智能的星星之火GPT-4 的早期实验 202303微软报告](#人工通用智能的星星之火gpt-4-的早期实验-202303微软报告)
       * [GPT-3: Building Innovative NLP Products Using Large Language Models](#gpt-3-building-innovative-nlp-products-using-large-language-models)
+      * [ChatGPT百万富翁](#chatgpt百万富翁)
       * [Python深度学习](#python深度学习)
       * [机器学习实战:基于Scikit-Learn和TensorFlow](#机器学习实战基于scikit-learn和tensorflow)
       * [Machine Learning For Absolute Beginners 2nd](#machine-learning-for-absolute-beginners-2nd)
@@ -40,6 +41,8 @@
       * [Python for DevOps](#python-for-devops)
    * [算法与数据结构](#算法与数据结构)
       * [Data Structures with Python](#data-structures-with-python)
+      * [算法图解.pdf](#算法图解pdf)
+
 
 
 
@@ -435,6 +438,43 @@ GPT-3，即Generative Pre-trained Transformer 3，是一个由OpenAI开发的基
 
 [GPT-3 Building Innovative NLP Products Using Large Language Model.epub](https://url97.ctfile.com/f/18113597-840311508-247fcf) (获取访问密码 公众号：pythontesting 发送 密码)
 
+### ChatGPT百万富翁
+
+![](https://m.media-amazon.com/images/I/41MpIX1MRAL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg)
+
+这是最简单的指南，介绍如何通过ChatGPT快速、轻松地赚钱（GPT-4）。
+在这个循序渐进的指南中，我将分享如何做到的秘密：
+
+- 在几分钟内创建被动收入来源
+
+让您的客户以极快的速度高质量地完成项目，从而给他们留下深刻印象。
+
+- 研究，创建和推广的内容毫不费力。
+
+获得时间来关注真正重要的东西。
+
+我们目前生活在这样一个世界，企业为撰写有吸引力的文章和博客支付数百美元，为社会媒体营销和SEO每月支付数千美元。现在使用ChatGPT，包括你在内的任何人都可以很好地做到这一点--即使你没有这方面的经验也是如此! 大多数企业现在不知道或不使用这个--这就是你可以进来，在几乎不做任何工作的情况下削弱现有的供应商--我将一步一步地告诉你如何做--你可以复制和粘贴说明。这个市场可能会在一年后趋于饱和--但现在正是开始的好时机!
+
+
+以下是书中的内容：
+
+- ChatGPT简介
+- 使用ChatGPT的优势
+- 如何开始使用ChatGPT
+- 有效使用ChatGPT的准则
+- 用ChatGPT大大提高你的工作效率--比你想象的更快地创建伟大的内容和代码。
+- 使用ChatGPT赚钱，创造被动收入来源。
+- 用ChatGPT成为一个超人的自由职业者--在几分钟内完成客户的项目，而不是几天。
+- 在几秒钟内为各种平台创建和重新使用社交媒体内容。
+- 轻松地研究和撰写博客文章、视频脚本、软件应用程序、在线课程等。
+- 150多个提示，将确保您可以快速、轻松地使用ChatGPT，满足您的任何需求。
+- ChatGPT的局限性
+
+本书有ChatGPT提示和回答的具体例子，可以帮助你了解实际的使用方法，并给你提供可以立即开始使用的模板!
+
+[The ChatGPT Millionaire. Making Money Online has never been this easy.epub( https://url97.ctfile.com/f/18113597-851753985-83a163) (获取访问密码 公众号：pythontesting 发送 密码)
+
+
 ### Python深度学习
 
 
@@ -666,3 +706,13 @@ Python中的数据结构和算法》包含了大量的例子、复习题、个�
 
 
 ![](https://m.media-amazon.com/images/I/51sXIrI7BdL._SX383_BO1,204,203,200_.jpg)
+
+### 算法图解.pdf
+
+本书示例丰富，图文并茂，以让人容易理解的方式阐释了算法，旨在帮助程序员在日常项目中更好地发挥算法的能量。书中的前三章将帮助你打下基础，带你学习二分查找、大O表示法、两种基本的数据结构以及递归等。余下的篇幅将主要介绍应用广泛的算法，具体内容包括：面对具体问题时的解决技巧，比如，何时采用贪婪算法或动态规划；散列表的应用；图算法；Kzui近邻算法。
+
+![image](https://img2023.cnblogs.com/blog/3174021/202305/3174021-20230505201156613-1747825468.png)
+
+[算法图解.pdf](https://url97.ctfile.com/f/18113597-847118622-28a211)
+
+(访问密码： 关注WX订阅号： pythontesting 发送”密码"即可。)
