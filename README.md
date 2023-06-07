@@ -422,16 +422,17 @@ radar 因为github星级太少而未收录 最近版本参见原文：https://gi
 
 ## 算法和设计模式(Algorithms and Design Patterns)
 
-Python的算法和设计模式的实现。
+Python数据结构、算法和设计模式的实现。 参考[awesome-algorithms](https://github.com/tayllan/awesome-algorithms).
 
- * algorithms - Python的算法模块。 [链接](https://github.com/keon/algorithms)
- 
- * PyPattyrn - 简单有效实现通用设计模式。 [链接](https://github.com/tylerlaberge/PyPattyrn) 
-
- * python-patterns - Python中设计模式的集合。 [链接](https://github.com/faif/python-patterns) 
-
- * sortedcontainers - SortedList，SortedDict和SortedSet类型的快速，纯Python实现。 [链接](https://github.com/grantjenks/sorted_containers/) 
-
+* 算法
+    * [algorithms](https://github.com/keon/algorithms) - 数据结构和算法的最小例子。
+    * [python-ds](https://github.com/prabhupant/python-ds) - 用于编码面试的数据结构和算法的集合。
+    * [sortedcontainers](https://github.com/grantjenks/python-sortedcontainers) - 快速和纯Python实现的排序集合。
+    * [TheAlgorithms](https://github.com/TheAlgorithms/Python) - 用Python实现的所有算法。 --强烈推荐
+* 设计模式
+    * [PyPattyrn](https://github.com/tylerlaberge/PyPattyrn) - 简单而有效的库，用于实现常见的设计模式。
+    * [python-patterns](https://github.com/faif/python-patterns) - Python中设计模式的集合。 
+    * [transitions](https://github.com/pytransitions/transitions) - 轻量级、面向对象的有限状态机实现。
 
 
 ## 反病毒(Anti-spam)
@@ -467,35 +468,26 @@ django-simple-spam-blocker因为github星级太少而未收录  最近版本参�
 
 ## 音频(Audio)
 
-操作音频的库。
+用于操作音频及其元数据的库
 
- * audiolazy -  数字信号处理(DSP)软件包。 [链接](https://github.com/danilobellini/audiolazy) 
-
- * audioread - 跨库(GStreamer +Core Audio+ MAD + FFmpeg)音频解码。[链接](https://github.com/beetbox/audioread) 
-
- * beets - 音乐库管理和MusicBrainzb标签。[链接](https://github.com/beetbox/beets)  -- 推荐
-
- * dejavu - 音频指纹识别。[链接](https://github.com/worldveil/dejavu) -- 推荐
-
- * id3reader - 用于读取MP3元数据的Python模块。[链接](https://nedbatchelder.com/code/modules/id3reader.py) 
-
- * m3u8 - 解析m3u8文件的模块。[链接](https://github.com/globocom/m3u8) 
-
- * mingus - 先进的音乐理论和MIDI文件和播放支持符号包。[链接](https://github.com/bspaans/python-mingus) 
-
- * mutagen - 用于处理音频元数据的Python模块。[链接](https://github.com/quodlibet/mutagen) 
-
- * pyAudioAnalysis - Python音频分析库：特征提取，分类，分割和应用。[链接](https://github.com/tyiannak/pyAudioAnalysis)  -- 推荐
-
- * pydub - 通过简单易用的高级界面处理音频。[链接](https://github.com/jiaaro/pydub) -- 推荐
-
- * pyechonest - Echo Nest API的Python客户端。[链接](https://github.com/echonest/pyechonest) 
-
- * talkbox - 用于语音/信号处理的Python库。[链接](https://github.com/miracle2k/webassets) 
-
- * TimeSide - 开放的Web音频处理框架。[链接](https://github.com/Parisson/TimeSide) 
-
- * tinytag - 用于读取MP3，OGG，FLAC和Wave文件的音乐元数据的库。[链接](https://github.com/devsnd/tinytag) 
+* 音频
+    * [audioread](https://github.com/beetbox/audioread) - 跨库（GStreamer + Core Audio + MAD + FFmpeg）音频解码。
+    * [audioFlux](https://github.com/libAudioFlux/audioFlux) - 一个用于音频和音乐分析、特征提取的库。
+    * [dejavu](https://github.com/worldveil/dejavu) - 音频指纹和识别。 -- 推荐
+    * [kapre](https://github.com/keunwoochoi/kapre) - Keras音频预处理。
+    * [librosa](https://github.com/librosa/librosa) - 用于音频和音乐分析的 Python 库。
+    * [matchering](https://github.com/sergree/matchering) - 一个用于自动参考音频母版的库。
+    * [mingus](http://bspaans.github.io/python-mingus/) - 一个支持MIDI文件和播放的高级音乐理论和记谱包。
+    * [pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis) - 音频特征提取、分类、分割和应用。  -- 推荐
+    * [pydub](https://github.com/jiaaro/pydub) - 用一个简单易行的高级界面操纵音频。 -- 推荐
+    * [TimeSide](https://github.com/Parisson/TimeSide) - 开放的网络音频处理框架。
+    * m3u8 - 解析m3u8文件的模块。[链接](https://github.com/globocom/m3u8) 
+    
+* 元数据
+    * [beets](https://github.com/beetbox/beets) - 一个音乐库管理器和[MusicBrainz](https://musicbrainz.org/)标签器。 -- 推荐
+    * [eyeD3](https://github.com/nicfit/eyeD3) - 一个用于处理音频文件的工具，特别是含有ID3元数据的MP3文件。
+    * [mutagen](https://github.com/quodlibet/mutagen) - 一个处理音频元数据的Python模块。
+    * [tinytag](https://github.com/devsnd/tinytag) - 一个用于读取MP3、OGG、FLAC和Wave文件的音乐元数据的库。 
 
  * 雪峰磁针石说明:
 
@@ -724,15 +716,9 @@ django-viewlet因为github星级太少而未收录
  * [Face Recognition](https://github.com/ageitgey/face_recognition) - 简单的面部识别库。
  * [Kornia](https://github.com/arraiyopensource/kornia/) - Kornia是用于PyTorch的可微分计算机视觉库。
  * OpenCV：开源计算机视觉库。[链接](https://opencv.org/) 
- 
- [2018最佳人工智能图像处理工具OpenCV书籍下载](https://www.jianshu.com/p/62a32f108341)
-
  * pyocr：Tesseract 和 Cuneiform 的包装库。[链接](https://github.com/openpaperwork/pyocr) 
-
  * pytesseract：Google Tesseract OCR 的另一包装库。[链接](https://github.com/madmaze/pytesseract) [文档](https://china-testing.github.io/python3_lib_pytesseract.html)
-
  * SimpleCV：一个用来创建计算机视觉应用的开源框架。[链接](https://github.com/sightmachine/SimpleCV) 
- 
  * [tesserocr](https://github.com/sirfz/tesserocr) - 另一个简单的、对Pillow友好的、围绕OCR的`tesseract-ocr` API的包装器。 
 
 ## 并发和并行及异步与网络(Concurrency and Parallelism)
@@ -1040,26 +1026,33 @@ Python实现的数据库。
 
 ## DevOps工具(DevOps Tools)
 
-* DevOps的软件和库。*
+用于DevOps的软件和库
 
-* [Ansible](https://github.com/ansible/ansible) - 极其简单的IT自动化平台。 --推荐
-* [prometheus](https://github.com/prometheus/client_python) - 普罗米修斯监控平台python官方客户端。 --推荐
-* [Cloud-Init](http://cloudinit.readthedocs.io/en/latest/) - 处理云实例的早期初始化的多分发包。
-* [cuisine](https://github.com/sebastien/cuisine) - 为 Fabric 提供一系列高级函数。
-* [Docker Compose](https://github.com/docker/compose) - 使用[Docker](https://www.docker.com/)的快速隔离开发环境。 --推荐
-* [Fabric](https://github.com/fabric/fabric/) - 简单的Pythonic远程执行和部署工具。 --推荐
-* [Fabtools](https://github.com/fabtools/fabtools) - 编写真棒Fabric文件的工具。
-* [honcho](https://github.com/nickstenning/honcho) - 一个[Foreman]的Python克隆(https://github.com/ddollar/foreman)，用于管理基于Procfile的应用程序。
-* [nova](https://github.com/openstack/nova) - OpenStack计算。 --推荐
-* [swift](https://github.com/openstack/swift) - OpenStack存储。 --推荐
-* [pexpect](https://github.com/pexpect/pexpect) - 在像GNU expect这样的伪终端中控制交互式程序。 --强烈推荐
-* [psutil](https://github.com/giampaolo/psutil) - 跨平台的进行和系统实用程序模块。 --推荐
-* [SaltStack](https://github.com/saltstack/salt) - 基础设施自动化和管理系统。 --推荐
-* [supervisor](https://github.com/Supervisor/supervisor) - 用于UNIX的Supervisor进程控制系统。
-*   gitapi：Git 的纯 Python API。[官网](https://bitbucket.org/haard/gitapi)
-*   hgapi：Mercurial 的纯 Python API。[官网](https://bitbucket.org/haard/hgapi)
-*   honcho：[Foreman](https://github.com/ddollar/foreman) 的 Python 克隆版，用来管理基于 [Procfile](https://devcenter.heroku.com/articles/procfile) 的应用。[官网](https://github.com/nickstenning/honcho)
-
+* 配置管理
+    * [ansible](https://github.com/ansible/ansible) - 极其简单的IT自动化平台。 --推荐
+    * [cloudinit](https://cloudinit.readthedocs.io/en/latest/) - 一个处理云实例的早期初始化的多分布包。
+    * [OpenStack](https://www.openstack.org/) - 用于构建私有云和公共云的开源软件。
+    * [pyinfra](https://github.com/Fizzadar/pyinfra) - 一个多功能的CLI工具和python库，用于自动化基础设施。
+    * [saltstack](https://github.com/saltstack/salt) - 基基础设施自动化和管理系统。 --推荐
+    * [nova](https://github.com/openstack/nova) - OpenStack计算。 --推荐
+    * [swift](https://github.com/openstack/swift) - OpenStack存储。 --推荐
+* SSH-style Deployment
+    * [fabric](https://github.com/fabric/fabric) - 简单的Pythonic远程执行和部署工具。 --推荐
+    * [fabtools](https://github.com/fabtools/fabtools) - 用于编写出色的Fabric文件的工具。
+    * [cuisine](https://github.com/sebastien/cuisine) - 为 Fabric 提供一系列高级函数。
+    * [pexpect](https://github.com/pexpect/pexpect) - 在像GNU expect这样的伪终端中控制交互式程序。 --强烈推荐
+* 流程管理
+    * [honcho](https://github.com/nickstenning/honcho) - [Foreman](https://github.com/ddollar/foreman)的一个Python克隆，用于管理基于Procfile的应用程序。
+    * [supervisor](https://github.com/Supervisor/supervisor) - UNIX的Supervisor进程控制系统。
+* 监控
+    * [psutil](https://github.com/giampaolo/psutil) - 平台的进行和系统实用程序模块。 --推荐
+    * [prometheus](https://github.com/prometheus/client_python) - 普罗米修斯监控平台python官方客户端。 --推荐
+* 备份
+    * [BorgBackup](https://www.borgbackup.org/) - 一个具有压缩和加密功能的重复编码存档器。
+* 其他
+    * [docker-compose](https://docs.docker.com/compose/) - 使用[Docker](https://www.docker.com/)快速、隔离的开发环境。 --推荐   
+    * gitapi：Git 的纯 Python API。[官网](https://bitbucket.org/haard/gitapi)
+    * hgapi：Mercurial 的纯 Python API。[官网](https://bitbucket.org/haard/hgapi)
 
 ## 分发(Distribution)
 
@@ -1276,7 +1269,7 @@ Python版本和环境管理
  * Eel - 用于制作简单电子类离线HTML / JS GUI应用程序的小程序库。[链接](https://github.com/ChrisKnott/Eel) 
  * enaml：使用类似 QML 的 Declaratic 语法来创建美观的用户界面。[链接](https://github.com/nucleic/enaml)
  * kivy：创建NUI应用程序的库，可以运行在 Windows, Linux, Mac OS X, Android 以及 iOS 平台上。[链接](https://github.com/kivy/kivy) -推荐
- * pyglet：Python 的跨平台窗口及多媒体库。[链接](https://bitbucket.org/pyglet/)
+ * pyglet：Python 的跨平台窗口及多媒体库。[链接](https://github.com/pyglet/pyglet)
  * PyQt：跨平台用户界面框架 Qt 的 Python 绑定 ，支持 Qt v4 和 Qt v5。[链接](https://doc.qt.io/qtforpython/)
  * PySide：跨平台用户界面框架 Qt 的 Python 绑定 ，支持 Qt v4。[链接](https://wiki.qt.io/PySide)
  * Tkinter：Python GUI 标准库。[链接](https://wiki.python.org/moin/TkInter)
@@ -1353,7 +1346,7 @@ Python版本和环境管理
 
 ## 硬件(Hardware)
 
-*用于硬件编程的库。*
+用于硬件编程的库。
 
 * [ino](http://inotool.org/) - 用于[Arduino](https://www.arduino.cc/)的命令行工具包。
 * [keyboard](https://github.com/boppreh/keyboard) - 钩和模拟Windows和Linux上的全球键盘事件。
@@ -1369,7 +1362,7 @@ Python版本和环境管理
 
 ## 图像处理(Image Processing)
 
-*用于处理图像的库。*
+用于处理图像的库。
 
 
 *   [pillow](http://hao.jobbole.com/pillow/)：Pillow 是一个更加易用版的 [PIL](http://www.pythonware.com/products/pil/)。[官网](http://pillow.readthedocs.org/en/latest/) -推荐 
@@ -1377,8 +1370,9 @@ Python版本和环境管理
 *   hmap：图像直方图映射。[官网](https://github.com/rossgoodwin/hmap)
 *   imgSeek：使用视觉相似性搜索一组图片集合的项目。[官网](https://sourceforge.net/projects/imgseek/) 较长时间没有更新
 *   nude.py：裸体检测。[官网](https://github.com/hhatto/nude.py)
-*   pyBarcode：不借助 PIL 库在 Python 程序中生成条形码。[官网](https://pythonhosted.org/pyBarcode/)
+*   [python-barcode](https://github.com/WhyNotHugo/python-barcode) - 在Python中创建条形码，没有额外的依赖性。
 *   pygram：类似 Instagram 的图像滤镜。[官网](https://github.com/ajkumar25/pygram)
+*   [PyMatting](http://github.com/pymatting/pymatting) - 用于alpha matting的库
 *   python-qrcode：纯 Python 实现的二维码生成器。[官网](https://github.com/lincolnloop/python-qrcode) --推荐
 *   [pywal](https://github.com/dylanaraps/pywal) - 从图像生成色彩方案的工具。
 *   [pyvips](https://github.com/libvips/pyvips) - 快速的图像处理库，内存需求低。
@@ -1498,9 +1492,10 @@ Python版本和环境管理
 *不适合上述类别的有用库或工具。*
 
 *   blinker：快速的 Python 进程内信号/事件分发系统。[官网](https://github.com/jek/blinker)
+*   [boltons](https://github.com/mahmoud/boltons) - 一组纯Python的实用工具。
 *   itsdangerous：一系列辅助工具用来将可信的数据传入不可信的环境。[官网](https://github.com/pallets/itsdangerous)
+*   [magenta](https://github.com/magenta/magenta) - 使用人工智能生成音乐和艺术的工具。
 *   pluginbase：一个简单但是非常灵活的 Python 插件系统。[官网](https://github.com/mitsuhiko/pluginbase)
-*   Pychievements：一个用来创建和追踪成就的 Python 框架。[官网](https://github.com/PacketPerception/pychievements)
 *   [Tryton](http://hao.jobbole.com/tryton/)：通用商务框架。[官网](http://www.tryton.org/)
 
 ## 自然语言处理(Natural Language Processing)
@@ -1764,7 +1759,7 @@ Python版本和环境管理
 *用于开发无服务器Python代码的框架。*
 
 * [python-lambda](https://github.com/nficano/python-lambda) - 用于在AWS Lambda中开发和部署Python代码的工具包。
-* [Zappa](https://github.com/Miserlou/Zappa) - AWS Lambda和API网关上部署WSGI应用程序的工具。--推荐
+* [Zappa](https://github.com/zappa/Zappa) - AWS Lambda和API网关上部署WSGI应用程序的工具。--推荐
 
 ## 特殊文本格式处理(Specific Formats Processing)
 
@@ -1775,6 +1770,8 @@ Python版本和环境管理
  * tablib：处理 XLS, CSV, JSON, YAML表格数据的模块。[链接](https://github.com/jazzband/tablib)
 
 ### Office
+
+ * [docxtpl](https://github.com/elapouya/python-docx-template) - 通过jinja2模板编辑docx文件
         
  * Marmir：把输入的Python 数据结构转换为电子表单。[链接](https://github.com/brianray/mm)
         
