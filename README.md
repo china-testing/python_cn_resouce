@@ -866,6 +866,8 @@ django-viewlet因为github星级太少而未收录
  * Seaborn - 使用Matplotlib进行统计数据可视化。[链接](https://github.com/mwaskom/seaborn) -荐
 
  * [plotly.py](https://github.com/plotly/plotly.py) 交互式基于浏览器的绘图 -荐
+ 
+ * [prettytable](https://github.com/jazzband/prettytable) 易读的ASCII表格格式显示表格数据
 
  [A Dramatic Tour through Python’s Data Visualization Landscape (including ggplot and Altair)](https://dsaber.com/2016/10/02/a-dramatic-tour-through-pythons-data-visualization-landscape-including-ggplot-and-altair/)
 
@@ -1023,6 +1025,7 @@ Python实现的数据库。
 * [Shogun](https://github.com/shogun-toolbox/shogun/) C++实现，为包括Python在内的多种语言和平台提供统一的接口。 它侧重于可扩展的内核方法，以解决回归和分类问题。 Shogun关注生物信息学，可以扩展以处理超过1000万个数据样本，同时保持准确性。
 * [CNTK](https://github.com/Microsoft/CNTK/tree/master/bindings/python)  微软的深度学习框架。
 * [sqlflow](https://github.com/sql-machine-learning/sqlflow) SQLFlow是连接SQL引擎的桥梁，例如 MySQL，Hive，SparkSQL或SQL Server，带有TensorFlow和其他机器学习工具包。 SQLFlow扩展了SQL语言，以支持模型训练，预测和推理。 国内唯一的技术大公司 阿里巴巴出品！
+* [tinyml](https://github.com/mit-han-lab/tinyml) 边缘机器学习。
 
 ## DevOps工具(DevOps Tools)
 
