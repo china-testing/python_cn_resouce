@@ -30,7 +30,7 @@
 **八字** 
 
 - 排盘
-[元亨排盘](https://www.china95.net/paipan/bazi/)  [子易排盘](http://forecasting.hk/8words/) [八字五行算命](http://www.chineseastrologyonline.com/CAGB.htm) [星相命理](http://tiger168.com/luckytop/lucky03.html) 
+[元亨排盘](https://www.china95.net/paipan/bazi/)  [子易排盘](http://forecasting.hk/8words/) [八字五行算命](http://www.chineseastrologyonline.com/CAGB.htm) [星相命理](http://tiger168.com/luckytop/lucky03.html) [哲学书电子化](https://ctext.org/wiki.pl?if=gb&res=595276&remap=gb) [造化元钥](http://www.guoxuedashi.net/a/22583b/)
 
 - 反推
 

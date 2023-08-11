@@ -842,6 +842,8 @@ django-viewlet因为github星级太少而未收录
     [awesome-dash](https://github.com/ucg8j/awesome-dash)
 
  * plotly：交互式基于浏览器的绘图。[链接](https://github.com/plotly/plotly.py)
+ 
+ * streamlit：构建和共享数据应用程序。[链接](https://github.com/streamlit) -强烈推荐
 
  * pyecharts：基于百度 Echarts 的数据可视化库。[链接](https://github.com/pyecharts/pyecharts) -荐
 
