@@ -1021,6 +1021,8 @@ Python实现的数据库。
 * [MXNet](https://github.com/dmlc/mxnet) - 高效率和灵活的深度学习框架。
 * [Neupy](http://neupy.com/pages/home.html) - 运行和测试不同的人工神经网络算法.
 * [Pytorch](http://pytorch.org/) - Python中的张量和动态神经网络，具有强大的GPU加速功能。 --推荐
+* [lightning](https://github.com/Lightning-AI/lightning) - 用于快速训练、部署和发布人工智能产品的深度学习框架，基于Pytorch。 --推荐
+* [fastai](https://github.com/fastai/fastai) - 基于Pytorch的深度学习库。 --推荐
 * [Serpent.AI](https://github.com/SerpentAI/SerpentAI) - 游戏代理框架。 使用任何视频游戏作为深度学习沙盒。 --推荐
 * [TensorFlow](https://github.com/tensorflow/tensorflow) - 由Google创建的最受欢迎的深度学习框架。 --强烈推荐
 * [Theano](https://github.com/Theano/Theano) - 用于快速数值计算的库.  --推荐
