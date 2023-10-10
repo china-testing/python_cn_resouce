@@ -1520,6 +1520,10 @@ Python版本和环境管理
 * [spaCy](https://github.com/explosion/spaCy) - 用于Python和Cython的工业强度自然语言处理的库。 -推荐
 * [PyTorch-NLP](https://github.com/PetrochukM/PyTorch-NLP) - A toolkit enabling rapid deep learning NLP prototyping for research.
 * [StanfordNLP](https://github.com/stanfordnlp/stanfordnlp) - The Stanford NLP Group's official Python library, supporting 50+ languages
+* [pyttsx4](https://github.com/Jiangshan00001/pyttsx4) 离线文本到语音合成
+* [gTTS](https://github.com/pndurette/gTTS) 连接 Google 翻译文本到语音 API 的 Python 库和 CLI 工具
+
+
 
 ## 网络虚拟化(Network Virtualization)
 
