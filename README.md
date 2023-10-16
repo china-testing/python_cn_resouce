@@ -1349,6 +1349,7 @@ Python版本和环境管理
 *   httplib2：全面的 HTTP 客户端库。[官网](https://github.com/jcgregorio/httplib2)
 *   treq：类似 requests 的 Python API 构建于 Twisted HTTP 客户端之上。[官网](https://github.com/twisted/treq)
 *   urllib3：一个具有线程安全连接池，支持文件 post，清晰友好的 HTTP 库。[官网](https://github.com/shazow/urllib3)
+* [aligo](https://github.com/foyoux/aligo) 简单、易用、可扩展的阿里云盘 API 接口库
 
 
 ## 硬件(Hardware)
