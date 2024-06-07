@@ -419,6 +419,8 @@ radar 因为github星级太少而未收录 最近版本参见原文：https://gi
  * Grappelli - Django管理界面的爵士皮肤。[链接]https://github.com/sehmaschine/django-grappelli) 
 
  * Wooey - 为Python脚本创建自动Web UI的Django应用程序。 [链接](https://github.com/wooey/wooey) 
+ 
+ * [streamlit](https://github.com/streamlit/streamlit) 在几分钟内建立仪表盘、生成报告或创建聊天应用程序。
 
 ## 算法和设计模式(Algorithms and Design Patterns)
 
@@ -689,7 +691,7 @@ django-viewlet因为github星级太少而未收录
 
  * SAWS：一个加强版的 AWS 命令行。[链接](https://github.com/donnemartin/saws) 
 
- * thefuck：修正你之前的命令行指令。[链接](https://github.com/nvbn/thefuck) 
+ * [tmuxp](https://github.com/tmux-python/tmuxp)：session manager.
 
  * mycli：一个 MySQL 命令行客户端，具有自动补全和语法高亮功能。[链接](https://github.com/dbcli/mycli) --推荐
 
@@ -795,6 +797,10 @@ django-viewlet因为github星级太少而未收录
  * orange：通过可视化编程或 Python 脚本进行数据挖掘，数据可视化，分析和机器学习。[链接](https://github.com/biolab/orange3)
 
  * Pandas：提供高性能，易用的数据结构和数据分析工具。[链接](https://github.com/pandas-dev/pandas) --强烈推荐
+ 
+ * [aws-sdk-pandas](https://github.com/aws/aws-sdk-pandas) - Pandas on AWS.
+ 
+ * [datasette](https://github.com/simonw/datasette) 一款用于探索和发布数据的开源工具。
 
  * [facets](https://github.com/PAIR-code/facets) 机器学习数据集可视化　--推荐
 
@@ -825,6 +831,8 @@ django-viewlet因为github星级太少而未收录
  * valideer：轻量级可扩展的数据验证和适配库。[链接](https://github.com/podio/valideer)
 
  * voluptuous：Python 数据验证库。主要是为了验证传入 Python的 JSON，YAML 等数据。[链接](https://github.com/alecthomas/voluptuous)
+ 
+ * [pydantic](https://github.com/pydantic/pydantic) 使用 Python 类型提示进行数据验证。
 
 ## 数据可视化(Data Visualization)
 
@@ -1021,7 +1029,7 @@ Python实现的数据库。
 * [MXNet](https://github.com/dmlc/mxnet) - 高效率和灵活的深度学习框架。
 * [Neupy](http://neupy.com/pages/home.html) - 运行和测试不同的人工神经网络算法.
 * [Pytorch](http://pytorch.org/) - Python中的张量和动态神经网络，具有强大的GPU加速功能。 --推荐
-* [lightning](https://github.com/Lightning-AI/lightning) - 用于快速训练、部署和发布人工智能产品的深度学习框架，基于Pytorch。 --推荐
+*  [pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) [lightning](https://github.com/Lightning-AI/lightning) - 用于快速训练、部署和发布人工智能产品的深度学习框架，基于Pytorch。 --推荐
 * [fastai](https://github.com/fastai/fastai) - 基于Pytorch的深度学习库。 --推荐
 * [Serpent.AI](https://github.com/SerpentAI/SerpentAI) - 游戏代理框架。 使用任何视频游戏作为深度学习沙盒。 --推荐
 * [TensorFlow](https://github.com/tensorflow/tensorflow) - 由Google创建的最受欢迎的深度学习框架。 --强烈推荐
@@ -1102,7 +1110,7 @@ Python实现的数据库。
 
  * you-get：优酷、YouTube/Youku/Niconico 视频下载器，使用 Python3 编写。[链接](https://github.com/soimort/you-get) --强烈推荐
 
- * youtube-dl：一个小巧的命令行程序，用来下载 YouTube 视频。[链接](http://rg3.github.io/youtube-dl/)
+ * [youtube-dl](https://github.com/ytdl-org/youtube-dl/)：一个小巧的命令行程序，用来下载 YouTube 视频。
 
 ## 电子商务(E-commerce)
 
@@ -1344,7 +1352,8 @@ Python版本和环境管理
 
 使用 HTTP 的库。
 *   aiohttp：基于 asyncio 的异步 HTTP 网络库。[官网](https://github.com/aio-libs/aiohttp)
-*   requests：人性化的 HTTP 请求库。[官网](http://docs.python-requests.org/en/latest/) --强烈推荐
+*   requests：人性化的 HTTP 请求库。[官网](https://github.com/psf/requests) --强烈推荐
+*   httpx：下一代支持异步的HTTP 请求库。[官网](https://github.com/encode/httpx) --强烈推荐
 *   grequests：requests 库 + gevent ，用于异步 HTTP 请求.[官网](https://github.com/spyoungtech/grequests)
 *   httplib2：全面的 HTTP 客户端库。[官网](https://github.com/jcgregorio/httplib2)
 *   treq：类似 requests 的 Python API 构建于 Twisted HTTP 客户端之上。[官网](https://github.com/twisted/treq)
@@ -1542,6 +1551,8 @@ Python版本和环境管理
 
 *   [uvicorn](https://github.com/encode/uvicorn) - Uvicorn是一个快如闪电的ASGI服务器实现，使用uvloop和httptools。
 *   asyncio：(Python 标准库) 异步 I/O, 事件循环, 协程以及任务。[官网](https://docs.python.org/3/library/asyncio.html) -推荐
+* [hypercorn](https://github.com/pgjones/hypercorn) 基于 Hyper 库的 ASGI 和 WSGI 服务器，灵感来自 Gunicorn。
+
 *   [Twisted](https://github.com/twisted/twisted)：一个事件驱动的网络引擎。[官网](https://twistedmatrix.com/trac/) -推荐
 *   pulsar：事件驱动的并发框架。[官网](https://github.com/quantmind/pulsar)
 *   diesel：基于 Greenlet 的事件 I/O 框架。[官网](https://github.com/dieseldev/diesel)
@@ -1688,8 +1699,8 @@ Python版本和环境管理
 *用于开发RESTful API的库。*
 
 * Django
-  * [django-rest-framework](http://www.django-rest-framework.org/) - 功能强大且灵活的工具包，用于构建Web API。 --强烈推荐
-  * [django-tastypie](http://tastypieapi.org/) - 为Django应用程序创建美味的API。 --推荐
+  * [django-rest-framework](https://github.com/encode/django-rest-framework) - 功能强大且灵活的工具包，用于构建Web API。 --强烈推荐
+  * [django-tastypie](https://github.com/django-tastypie/django-tastypie) - 为Django应用程序创建美味的API。 --推荐
 * Flask
   * [eve](https://github.com/pyeve/eve) - 由Flask，MongoDB提供支持的REST API框架和。  --推荐
   * [flask-api-utils](https://github.com/marselester/flask-api-utils) - 负责Flask的API表示和身份验证。
@@ -2027,11 +2038,11 @@ Archive
 
   * Demiurge：基于PyQuery 的爬虫微型框架。[链接](https://github.com/matiasb/demiurge) 
 
-  * feedparser：通用 feed 解析器。[链接](https://github.com/kurtmckee/feedparser) 
+  * [feedparser](https://github.com/kurtmckee/feedparser)： 通用 feed 解析器。
 
   * Grab：站点爬取框架。[链接](https://github.com/lorien/grab/) 
 
-  * MechanicalSoup：用于自动和网络站点交互的 Python 库。[链接](https://github.com/MechanicalSoup/MechanicalSoup) 
+  * [mechanicalsoup](https://github.com/MechanicalSoup/MechanicalSoup)：用于自动和网络站点交互的 Python 库。
 
   * portia：Scrapy 可视化爬取。[链接](https://github.com/scrapinghub/portia) --推荐
 
@@ -2071,8 +2082,7 @@ Archive
  
  * [Masonite](https://github.com/MasoniteFramework/masonite) - 现代和以开发者为中心的Python网络框架。
 
- * Tornado - web 框架和异步网络库. [链接](https://github.com/tornadoweb/tornado/blob/master/docs/index.rst)
-
+ * [tornado](https://github.com/tornadoweb/tornado) - web 框架和异步网络库. 
 
 
 ## WebSocket
