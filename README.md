@@ -692,6 +692,8 @@ django-viewlet因为github星级太少而未收录
  * SAWS：一个加强版的 AWS 命令行。[链接](https://github.com/donnemartin/saws) 
 
  * [tmuxp](https://github.com/tmux-python/tmuxp)：session manager.
+ 
+ * thefuck：修正你之前的命令行指令。[链接](https://github.com/nvbn/thefuck) --强烈推荐
 
  * mycli：一个 MySQL 命令行客户端，具有自动补全和语法高亮功能。[链接](https://github.com/dbcli/mycli) --推荐
 
@@ -1560,6 +1562,7 @@ Python版本和环境管理
 *   Toapi：轻巧，简单，快速的 Flask 库，致力于为所有网站提供 API 服务。[官网](https://github.com/gaojiuli/toapi) -推荐
 *   txZMQ：基于 Twisted 的 ZeroMQ 消息库的 Python 封装。[官网](https://github.com/smira/txZMQ)
 *   [NAPALM](https://github.com/napalm-automation/napalm) - 用于操纵网络设备的跨供应商API。
+*   [pyftpdlib](https://github.com/giampaolo/pyftpdlib) - 速度极快、可扩展的Python FTP服务器库。
 
 ### 动态消息
 
@@ -1718,6 +1721,7 @@ Python版本和环境管理
   * [apistar](https://github.com/encode/apistar) - 为Python 3设计的智能Web API框架。--推荐
   * [vibora](https://github.com/vibora-io/vibora) - 快速、高效、异步的Web框架，灵感来自Flask。
   * [sanic](https://github.com/sanic-org/sanic) - 异步Python 3.7+ web server/framework | 快速构建及执行。 　--推荐
+  * [quart](https://github.com/pallets/quart) - 用于构建网络应用程序的异步 Python 微型框架。
 
 ## RPC服务器(RPC Servers)
 
@@ -2083,6 +2087,12 @@ Archive
  * [Masonite](https://github.com/MasoniteFramework/masonite) - 现代和以开发者为中心的Python网络框架。
 
  * [tornado](https://github.com/tornadoweb/tornado) - web 框架和异步网络库. 
+ 
+ * [Litestar](https://github.com/litestar-org/litestar) 与 FastAPI 类似，基于 ASGI/Starlette 和 Pydantic，但有自己的观点。
+ 
+ * [Socketify.py](https://github.com/cirospaciari/socketify.py) 为 PyPy3 和 Python3 引入 Http/Https 和 WebSockets 高性能服务器 
+ 
+ 
 
 
 ## WebSocket
