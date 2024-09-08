@@ -798,6 +798,8 @@ django-viewlet因为github星级太少而未收录
 
  * orange：通过可视化编程或 Python 脚本进行数据挖掘，数据可视化，分析和机器学习。[链接](https://github.com/biolab/orange3)
 
+ * [polars](https://github.com/pola-rs/polars) 由 Rust 编写的多线程矢量化查询引擎驱动的数据帧。 --强烈推荐
+
  * Pandas：提供高性能，易用的数据结构和数据分析工具。[链接](https://github.com/pandas-dev/pandas) --强烈推荐
  
  * [aws-sdk-pandas](https://github.com/aws/aws-sdk-pandas) - Pandas on AWS.
