@@ -861,6 +861,8 @@ django-viewlet因为github星级太少而未收录
 
  * pygal：Python SVG 图表创建工具。[链接](https://github.com/Kozea/pygal/blob/master/docs/index.rst)
 
+ * graphviz：Graphviz 的简单 Python API。[链接](https://github.com/xflr6/graphviz)
+
  * pygraphviz：Graphviz 的 Python 接口。[链接](https://github.com/pygraphviz/pygraphviz)
 
  * PyQtGraph：交互式实时 2D/3D/ 图像绘制及科学/工程学组件。[链接](https://github.com/pyqtgraph/pyqtgraph)
