@@ -1423,7 +1423,8 @@ Python版本和环境管理
 * [Numba](https://github.com/numba/numba/) - 针对科学Python的LLVM的Python JIT编译器。 --推荐
 * [PeachPy](https://github.com/Maratyszcza/PeachPy) - 嵌入在Python中的x86-64汇编程序。可以用作Python的内联汇编程序，也可以用作Windows，Linux，OS X，Native Client和Go的独立汇编程序。 --推荐
 * [Pyjion](https://github.com/Microsoft/Pyjion) - 基于CoreCLR的Python JIT。
-* [PyPy](https://bitbucket.org/pypy/pypy) - 实现用RPython编写并编译为C的Python编程语言.PyPy关注速度，效率以及与原始CPython解释器的兼容性。解释器使用黑魔法使Python非常快速，而无需添加额外的类型信息。 --强烈推荐
+* [codon](https://github.com/exaloop/codon) - 使用 LLVM 的高性能、零开销、可扩展 Python 编译器。
+* [PyPy](https://bitbucket.org/pypy/pypy) - 实现用RPython编写并编译为C的Python编程语言.PyPy关注速度，效率以及与原始CPython解释器的兼容性。解释器使用黑魔法使Python非常快速，而无需添加额外的类型信息。 
 * [PySec](https://github.com/ebranca/owasp-pysec) - python的强化版本，使安全专业人员和开发人员可以更轻松地编写应用程序，从而更有弹性地处理攻击和操作。
 * [Pyston](https://github.com/dropbox/pyston) - 使用LLVM和现代JIT技术构建的Python实现，其目标是实现良好的性能。 --推荐
 * [Stackless Python](https://github.com/stackless-dev/stackless/wiki) - Python编程语言的增强版本，它允许程序员在没有性能和复杂性的情况下获得基于线程编程的好处与传统线程相关的问题。 --推荐
