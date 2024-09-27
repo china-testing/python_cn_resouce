@@ -1986,6 +1986,8 @@ Archive
 用来操作视频和GIF的库。
 
  * moviepy：一个用来进行基于脚本的视频编辑模块，适用于多种格式，包括动图 GIFs。[链接](https://github.com/Zulko/moviepy/)
+ * [manim](https://github.com/3b1b/manim)  数学讲解视频的动画引擎 -- 强烈推荐	
+ * [manim community](https://github.com/ManimCommunity/manim)  社区维护的 Python 框架，用于创建数学动画。 -- 强烈推荐
 
 ## WSGI 服务器(WSGI Servers)
 
