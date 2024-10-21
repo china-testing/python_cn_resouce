@@ -20,10 +20,11 @@
 | 武冈 | [红网论坛](http://bbs.rednet.cn/forum.php?mod=forumdisplay&fid=74) | [百度武冈](http://news.baidu.com/ns?word=%CE%E4%B8%D4&tn=news&from=news&cl=2&rn=20&ct=0) | [武冈政府](http://www.wugang.gov.cn/) | [武冈天气](http://www.weather.com.cn/weather/101250908.shtml) |   |   
 | 购物 | [亚马逊](https://www.amazon.cn/) | [天猫](https://www.tmall.com/) | [淘宝](https://china-testing.github.io/www.taobao.com) | [互动出版](http://www.china-pub.com/) |   | 
 | 英语 | [给力6a1](https://www.geilien.cn/ebooks/xiangnu/6a/lesson1.html) |  [给力4a1](https://www.geilien.cn/ebooks/xiangnu/4a/lesson1.html) |
+| 转换 | [mp4-to-gif]([https://www.geilien.cn/ebooks/xiangnu/6a/lesson1.html](https://cloudconvert.com/mp4-to-gif)) |  [给力4a1](https://www.geilien.cn/ebooks/xiangnu/4a/lesson1.html) |
 | 书籍 | [allitebooks](http://www.allitebooks.com/) | [archive](https://archive.org/details/texts) | [DigiLibraries](http://digilibraries.com/)  | [smtebooks](https://smtebooks.com/) | 
 | 书籍 | [1lib](https://1lib.net/) | [finelybook](http://finelybook.com/) | [pansoso](http://www.pansoso.com/) | [wowebook](http://www.wowebook.org/) | [5kindle—68682019](https://5kindle.com/books/29452/) | [爱知客](http://www.izhike.cn/) |
 | 工具 | [Git-Cheat-Sheet](https://github.com/flyhigher139/Git-Cheat-Sheet)  | [web酷狗](http://web.kugou.com/) | [网站排行](http://top.chinaz.com/) |  | [processon在线绘图](https://www.processon.com/)
-| 下载 | [youtube下载](https://china-testing.github.io/www.findyoutube.com) | [cnet下载](https://archive.org/details/texts) | [3322](http://www.3322.cc/sort/index.html) | [pc6](http://www.pc6.com/) | [西西软件](http://www.cr173.com/) | [itmop](http://www.itmop.com/)
+| 下载 | [savefrom](https://en1.savefrom.net/2ol/) | [cnet下载](https://archive.org/details/texts) | [3322](http://www.3322.cc/sort/index.html) | [pc6](http://www.pc6.com/) | [西西软件](http://www.cr173.com/) | [itmop](http://www.itmop.com/)
 | Linux | [rpmfind](http://fr2.rpmfind.net/) | [pkgs](https://pkgs.org/) | [RPM Search](http://rpm.pbone.net/) |   |  
  | [用药参考](http://drugs.medlive.cn/index.jsp) | [医案查询](http://www.gjmlzy.com:83/KBFmsSearch/Main/Index6) | [中药大全](http://zhongyao.m.supfree.net/) | [中医百科](https://zhongyibaike.com/wiki/%E5%9B%9B%E5%90%9B%E5%AD%90%E6%B1%A4) |
 | 中草药 | [植物图库](http://www.cses.tc.edu.tw/~tiwngien/picture%20datas/plant/oftensees.htm) | [福星花园](https://china-testing.github.io/bruce0342.blogspot.hk) | [认识植物](http://kplant.biodiv.tw/) | [中国植物志](http://frps.eflora.cn/) | [医学百科](http://www.a-hospital.com/w/%E7%99%BD%E8%83%8C%E5%8F%B6) | [中医书籍](http://www.zysj.com.cn/lilunshuji/index.html) 
