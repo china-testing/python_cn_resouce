@@ -1057,6 +1057,7 @@ Python实现的数据库。
     * [saltstack](https://github.com/saltstack/salt) - 基基础设施自动化和管理系统。 --推荐
     * [nova](https://github.com/openstack/nova) - OpenStack计算。 --推荐
     * [swift](https://github.com/openstack/swift) - OpenStack存储。 --推荐
+    * [nautobot](https://github.com/nautobot/nautobot) 存储网络信息的数据库。 --推荐
 * SSH-style Deployment
     * [fabric](https://github.com/fabric/fabric) - 简单的Pythonic远程执行和部署工具。 --推荐
     * [fabtools](https://github.com/fabtools/fabtools) - 用于编写出色的Fabric文件的工具。
