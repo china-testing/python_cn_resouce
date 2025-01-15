@@ -21,8 +21,9 @@
 | 标准论文 | [国家标准](https://std.samr.gov.cn/gb/gbQuery) | [标准网](https://www.biaozhun.org/) | [标准下载](https://www.bzxz.net/) | [HAL](https://hal.science/search/index/?q=slurm&rows=30&language_s=en) |   | 
 | 英语 | [给力6a1](https://www.geilien.cn/ebooks/xiangnu/6a/lesson1.html) |  [给力4a1](https://www.geilien.cn/ebooks/xiangnu/4a/lesson1.html) |
 | 转换 | [mp4-to-gif](https://cloudconvert.com/mp4-to-gif) |  |
-| 书籍 | [allitebooks](http://www.allitebooks.com/) | [archive](https://archive.org/details/texts) | [DigiLibraries](http://digilibraries.com/)  | [smtebooks](https://smtebooks.com/) | 
-| 书籍 | [1lib](https://1lib.net/) | [finelybook](http://finelybook.com/) | [pansoso](http://www.pansoso.com/) | [wowebook](http://www.wowebook.org/) | [5kindle—68682019](https://5kindle.com/books/29452/) | [爱知客](http://www.izhike.cn/) |
+| 书籍 | [z-lib](https://zh.z-lib.gs/) | [archive](https://archive.org/details/texts) | [DigiLibraries](http://digilibraries.com/)  | [安娜档案](https://tw.annas-archive.org/) | 
+| 书籍 | | [finelybook](http://finelybook.com/) | [pansoso](http://www.pansoso.com/) | [wowebook](http://www.wowebook.org/) | []() | []() |
+| CAE | [theartofhpc](https://theartofhpc.com/)  | [Introduction to Parallel Computing Tutorial](https://hpc.llnl.gov/documentation/tutorials/introduction-parallel-computing-tutorial) | [pansoso](http://www.pansoso.com/) | [wowebook](http://www.wowebook.org/) |  [numdiff](https://www.nongnu.org/numdiff/numdiff.html) | []() |
 | 工具 | [Git-Cheat-Sheet](https://github.com/flyhigher139/Git-Cheat-Sheet)  | [web酷狗](http://web.kugou.com/) | [网站排行](http://top.chinaz.com/) | [去水印](https://www.watermarkremover.io/zh/upload) | [processon在线绘图](https://www.processon.com/)
 | 地图 | [earth地球](https://pc.thread0.com/))  | [谷歌地球](https://earth.google.com/web/) | []() | []() | []()
 | 下载 | [savefrom](https://en1.savefrom.net/2ol/) | [cnet下载](https://archive.org/details/texts) | [3322](http://www.3322.cc/sort/index.html) | [pc6](http://www.pc6.com/) | [西西软件](http://www.cr173.com/) | [itmop](http://www.itmop.com/)
