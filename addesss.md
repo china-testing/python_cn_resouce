@@ -53,7 +53,7 @@
 火狐插件 | oscobo |SwitchyOmega |RESTED |Video DownloadHelper 
 chrome插件 |SwitchyOmega 
 代码评审　| [reviewboard](https://github.com/reviewboard/reviewboard) [rietveld](https://github.com/rietveld-codereview/rietveld) | [Gerrit](https://www.gerritcodereview.com/) | reviewboard的github评分较高　| [更多参考](https://en.wikipedia.org/wiki/List_of_tools_for_code_review) | [更多参考](https://www.google.com.hk/?gws_rd=ssl#safe=strict&q=best+code+review+tool) |
-其他 |[wujie](https://github.com/wujieliulan/forum)
+其他 |[wujie](https://github.com/wujieliulan/forum) |[etcher启动盘](https://etcher.balena.io/#download-etcher)
 
 
 https://github.com/yorkoliu/pyauto
