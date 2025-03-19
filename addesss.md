@@ -30,6 +30,7 @@
 | Linux | [rpmfind](http://fr2.rpmfind.net/) | [pkgs](https://pkgs.org/) | [RPM Search](http://rpm.pbone.net/) |   |  
  | [用药参考](http://drugs.medlive.cn/index.jsp) | [医案查询](http://www.gjmlzy.com:83/KBFmsSearch/Main/Index6) | [中药大全](http://zhongyao.m.supfree.net/) | [中医百科](https://zhongyibaike.com/wiki/%E5%9B%9B%E5%90%9B%E5%AD%90%E6%B1%A4) |
 | 中草药 | [植物图库](http://www.cses.tc.edu.tw/~tiwngien/picture%20datas/plant/oftensees.htm) | [福星花园](https://china-testing.github.io/bruce0342.blogspot.hk) | [认识植物](http://kplant.biodiv.tw/) | [中国植物志](http://frps.eflora.cn/) | [医学百科](http://www.a-hospital.com/w/%E7%99%BD%E8%83%8C%E5%8F%B6) | [中医书籍](http://www.zysj.com.cn/lilunshuji/index.html) 
+| 调优 | [CPU优化](https://weedge.github.io/perf-book-cn/zh/chapters/4-Terminology-And-Metrics/4-5_Pipeline_Slot_cn.html) | [福星花园](https://china-testing.github.io/bruce0342.blogspot.hk) | [认识植物](http://kplant.biodiv.tw/) | [中国植物志](http://frps.eflora.cn/) | [医学百科](http://www.a-hospital.com/w/%E7%99%BD%E8%83%8C%E5%8F%B6) | [中医书籍](http://www.zysj.com.cn/lilunshuji/index.html) 
 
 **八字** 
 
