@@ -19,7 +19,7 @@
 | 调优 |[hpcwire](https://www.hpcwire.com/) | [webpagetest](https://www.webpagetest.org/) |[testandcode](https://testandcode.com)  | [WAVE Web Accessibility](https://wave.webaim.org/)   |[practitest](https://www.practitest.com/resource-center/)   |  
 | 武冈 | [红网论坛](http://bbs.rednet.cn/forum.php?mod=forumdisplay&fid=74) | [百度武冈](http://news.baidu.com/ns?word=%CE%E4%B8%D4&tn=news&from=news&cl=2&rn=20&ct=0) | [武冈政府](http://www.wugang.gov.cn/) | [武冈天气](http://www.weather.com.cn/weather/101250908.shtml) |   |   
 | 标准论文 | [国家标准](https://std.samr.gov.cn/gb/gbQuery) | [标准网](https://www.biaozhun.org/) | [标准下载](https://www.bzxz.net/) | [HAL](https://hal.science/search/index/?q=slurm&rows=30&language_s=en) |   | 
-| 英语 | [给力6a1](https://www.geilien.cn/ebooks/xiangnu/6a/lesson1.html) |  [给力4a1](https://www.geilien.cn/ebooks/xiangnu/4a/lesson1.html) |
+| 英语 | [给力6a1](https://www.geilien.cn/ebooks/xiangnu/6a/lesson1.html) |  [给力4a1](https://www.geilien.cn/ebooks/xiangnu/4a/lesson1.html) | [湘鲁下载](https://www.geilien.cn/download.asp?ThreadID=19657)
 | 转换 | [mp4-to-gif](https://cloudconvert.com/mp4-to-gif) |  |
 | 书籍 | [z-lib](https://zh.z-lib.gs/) | [archive](https://archive.org/details/texts) | [DigiLibraries](http://digilibraries.com/)  | [安娜档案](https://tw.annas-archive.org/) | 
 | 书籍 | [coderprog](https://coderprog.com/) | [finelybook](http://finelybook.com/) | [pansoso](http://www.pansoso.com/) | [wowebook](http://www.wowebook.org/) | []() | []() |
