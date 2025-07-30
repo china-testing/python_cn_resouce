@@ -620,6 +620,7 @@ django-viewlet因为github星级太少而未收录
     * pylama：python和JavaScript代码审计。[链接](https://github.com/klen/pylama) 
     * Pylint：完全可定制的源码分析器。[链接](https://github.com/PyCQA/pylint)     
     * [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) - 有史以来最严格和最有主见的Python linter. 
+    * [ruff](https://github.com/astral-sh/ruff) - Rust 编写的极快的 Python linter 和代码格式化程序。
     
   * 代码格式化    
     * pep8 ：python风格检查。[链接](https://github.com/PyCQA/pycodestyle) --推荐  
@@ -802,6 +803,8 @@ django-viewlet因为github星级太少而未收录
  * [polars](https://github.com/pola-rs/polars) 由 Rust 编写的多线程矢量化查询引擎驱动的数据帧。 --强烈推荐
 
  * Pandas：提供高性能，易用的数据结构和数据分析工具。[链接](https://github.com/pandas-dev/pandas) --强烈推荐
+ 
+ * pandera：轻量级、灵活且富有表现力的统计数据测试库，支持 pandas, polars, pyspark等。[链接](https://github.com/unionai-oss/pandera) --强烈推荐
  
  * [aws-sdk-pandas](https://github.com/aws/aws-sdk-pandas) - Pandas on AWS.
  
@@ -1037,6 +1040,7 @@ Python实现的数据库。
 * [Neupy](http://neupy.com/pages/home.html) - 运行和测试不同的人工神经网络算法.
 * [Pytorch](http://pytorch.org/) - Python中的张量和动态神经网络，具有强大的GPU加速功能。 --推荐
 *  [pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) [lightning](https://github.com/Lightning-AI/lightning) - 用于快速训练、部署和发布人工智能产品的深度学习框架，基于Pytorch。 --推荐
+* [stable-baselines3](https://github.com/DLR-RM/stable-baselines3) - 稳定基线（深度）强化学习算法的 PyTorch 实现。.
 * [fastai](https://github.com/fastai/fastai) - 基于Pytorch的深度学习库。 --推荐
 * [Serpent.AI](https://github.com/SerpentAI/SerpentAI) - 游戏代理框架。 使用任何视频游戏作为深度学习沙盒。 --推荐
 * [TensorFlow](https://github.com/tensorflow/tensorflow) - 由Google创建的最受欢迎的深度学习框架。 --强烈推荐
@@ -1639,6 +1643,7 @@ Python版本和环境管理
 
  * wheel：Python 分发的新标准，意在取代 eggs。[链接](https://github.com/meshy/pythonwheels) --强烈推荐
 
+ * [uv](https://github.com/astral-sh/uv) - 用 Rust 编写的极快的 Python 包和项目管理器。
 
 ## 包仓库
 
@@ -1836,7 +1841,7 @@ Pywin32  也可通过COM口连接excel。
         
 ### PDF
 
- * PDFMiner：从PDF文档中抽取信息的工具。[链接](https://github.com/euske/pdfminer)
+* [pdfminer.six](https://github.com/pdfminer/pdfminer.six) - Pdfminer.six 是原始 PDFMiner 的社区维护分支。
         
  * PyPDF2：可以分割，合并和转换 PDF 页面的库。[链接](https://github.com/mstamy2/PyPDF2)
         
