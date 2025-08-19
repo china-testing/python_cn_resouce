@@ -1757,6 +1757,7 @@ Python版本和环境管理
 * [NetworkX](https://networkx.github.io/) - 适用于复杂网络的高效软件。 
 * [NIPY](http://nipy.org) - 一套神经影像工具包。 --推荐
 * [NumPy](http://www.numpy.org/) - 用Python进行科学计算的基础软件包。 --强烈推荐
+* [cupy](https://github.com/cupy/cupy) - NumPy & SciPy for GPU 
 * [jax](https://github.com/jax-ml/jax) Python+NumPy 程序的可组合转换：微分、矢量化、JIT 到 GPU/TPU 等  --强烈推荐
 * [Open Babel](http://openbabel.org/wiki/Main_Page) - 一种化学工具箱，专门用于讲述多种化学数据的语言。
 * [ObsPy](https://github.com/obspy/obspy/wiki/) - 地震学的Python工具箱。
